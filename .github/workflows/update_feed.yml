@@ -27,4 +27,4 @@ jobs:
           git config --global user.email "bot@feed.local"
           git add products_filtered.xml
           git diff --staged --quiet || git commit -m "Aktualizace feedu $(date +'%Y-%m-%d %H:%M')"
-          git push
+          git push --force
