@@ -2,7 +2,7 @@ name: Update Product Feed
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Spustí se každý den ve 2:00 v noci (UTC = 3:00 CZ zimní čas)
+    - cron: '0 2 * * *'  # Každý den ve 2:00 (UTC = 3:00 CZ zimní čas)
   workflow_dispatch:      # Umožní spustit ručně tlačítkem
 
 jobs:
@@ -27,4 +27,5 @@ jobs:
           git config --global user.email "bot@feed.local"
           git add products_filtered.xml
           git diff --staged --quiet || git commit -m "Aktualizace feedu $(date +'%Y-%m-%d %H:%M')"
-          git push --force
+          git pull --rebase origin main
+          git push origin main
