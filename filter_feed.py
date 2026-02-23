@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Shoptet Feed Filter - Removes products with fewer than 3 available sizes
-OPRAVENÁ VERZE: odstraňuje VŠECHNY varianty produktu (i vyprodané),
-pokud má produkt méně než 3 velikosti skladem.
+Shoptet Feed Filter
+- Odstraní produkty s méně než 3 velikostmi skladem
+- U zbývajících produktů odstraní vyprodané varianty
 """
 
 import xml.etree.ElementTree as ET
@@ -53,10 +53,10 @@ def filter_products(root, min_sizes=3):
     print(f"Filtruju produkty s méně než {min_sizes} velikostmi skladem...")
 
     items = root.findall('.//item')
-    print(f"Celkem produktů: {len(items)}")
+    print(f"Celkem variant před filtrací: {len(items)}")
 
-    # Seskup všechny varianty a spočítej skladem dostupné
-    groups = defaultdict(lambda: {'all': [], 'in_stock': 0})
+    # Seskup všechny varianty
+    groups = defaultdict(lambda: {'in_stock': [], 'out_of_stock': []})
 
     for item in items:
         group_id = get_text(item, [
@@ -76,19 +76,22 @@ def filter_products(root, min_sizes=3):
             'availability'
         ]) or ''
 
-        groups[group_id]['all'].append(item)
         if 'in stock' in availability.lower():
-            groups[group_id]['in_stock'] += 1
+            groups[group_id]['in_stock'].append(item)
+        else:
+            groups[group_id]['out_of_stock'].append(item)
 
-    # Odstraň VŠECHNY varianty produktů s méně než min_sizes kusů skladem
     channel = root.find('.//channel')
     removed_groups = 0
     kept_groups = 0
     removed_items = 0
 
     for group_id, data in groups.items():
-        if data['in_stock'] < min_sizes:
-            for item in data['all']:
+        in_stock_count = len(data['in_stock'])
+
+        if in_stock_count < min_sizes:
+            # Méně než 3 skladem → odstraň VŠECHNY varianty
+            for item in data['in_stock'] + data['out_of_stock']:
                 try:
                     channel.remove(item)
                     removed_items += 1
@@ -96,11 +99,20 @@ def filter_products(root, min_sizes=3):
                     pass
             removed_groups += 1
         else:
+            # 3 a více skladem → odstraň jen vyprodané varianty
+            for item in data['out_of_stock']:
+                try:
+                    channel.remove(item)
+                    removed_items += 1
+                except ValueError:
+                    pass
             kept_groups += 1
 
+    remaining = root.findall('.//item')
     print(f"Zachováno skupin: {kept_groups}")
     print(f"Odstraněno skupin: {removed_groups}")
     print(f"Odstraněno variant celkem: {removed_items}")
+    print(f"Variant ve feedu po filtraci: {len(remaining)}")
     return root
 
 
@@ -119,7 +131,7 @@ def save_feed(root, output_file):
 
 def main():
     print("=" * 50)
-    print("Shoptet Feed Filter v2")
+    print("Shoptet Feed Filter v3")
     print("=" * 50)
     xml_content = download_feed(FEED_URL)
     root = parse_feed(xml_content)
