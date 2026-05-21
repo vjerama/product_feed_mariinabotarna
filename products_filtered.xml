@@ -13837,8 +13837,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Materiál</ns0:attribute_name>
         <ns0:attribute_value>kůže</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>710.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000004326067</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -13899,8 +13901,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Materiál</ns0:attribute_name>
         <ns0:attribute_value>kůže</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>755.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000004326074</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -13961,8 +13965,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Materiál</ns0:attribute_name>
         <ns0:attribute_value>kůže</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>755.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000004326074</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14023,8 +14029,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Materiál</ns0:attribute_name>
         <ns0:attribute_value>kůže</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>755.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000004326074</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14085,8 +14093,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Barva</ns0:attribute_name>
         <ns0:attribute_value>šedá</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>660.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857234</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14147,8 +14157,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Barva</ns0:attribute_name>
         <ns0:attribute_value>šedá</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>660.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857234</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14209,8 +14221,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Barva</ns0:attribute_name>
         <ns0:attribute_value>šedá</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>820.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857296</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14271,8 +14285,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Barva</ns0:attribute_name>
         <ns0:attribute_value>šedá</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>820.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857296</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14333,8 +14349,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Barva</ns0:attribute_name>
         <ns0:attribute_value>šedá</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>750.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857289</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14393,6 +14411,7 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:product_detail>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>660.00 CZK</ns0:price>
+      <ns0:sale_price>200.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857241</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14451,6 +14470,7 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:product_detail>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>660.00 CZK</ns0:price>
+      <ns0:sale_price>200.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857241</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14509,6 +14529,7 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:product_detail>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>820.00 CZK</ns0:price>
+      <ns0:sale_price>200.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857302</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14567,6 +14588,7 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:product_detail>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>820.00 CZK</ns0:price>
+      <ns0:sale_price>200.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857302</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -14625,6 +14647,7 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:product_detail>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>820.00 CZK</ns0:price>
+      <ns0:sale_price>200.00 CZK</ns0:sale_price>
       <ns0:gtin>2000003857296</ns0:gtin>
       <ns0:brand>BOOTS4YOU</ns0:brand>
       <ns0:shipping>
@@ -15100,183 +15123,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>3672</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>3726/26</ns0:id>
-      <title>BOOTS4YOU Boots4U dětský sandál T615 oceán-modrá Velikost: 26</title>
-      <description>Chlapecké sandály regulovatelné na dva suché zipy. Otevřená špička a pevná pata zabezpečí pro nohu dostatečnou oporu pro její rozvoj. Sandály jsou vypolstrované a&amp;nbsp;mají koženou stélku s podporou klenby.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/detsky-sandal-t615-ocean-modra/?variantId=13842</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/detsky-sandal-t615-ocean-modra/?variantId=13842</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3726_boots4u-detsky-sandal-t615-ocean-modra.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3726-1_boots4u-detsky-sandal-t615-ocean-modra.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            26
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>modrá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>795.00 CZK</ns0:price>
-      <ns0:gtin>2200005243886</ns0:gtin>
-      <ns0:brand>BOOTS4YOU</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>3726</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>3726/27</ns0:id>
-      <title>BOOTS4YOU Boots4U dětský sandál T615 oceán-modrá Velikost: 27</title>
-      <description>Chlapecké sandály regulovatelné na dva suché zipy. Otevřená špička a pevná pata zabezpečí pro nohu dostatečnou oporu pro její rozvoj. Sandály jsou vypolstrované a&amp;nbsp;mají koženou stélku s podporou klenby.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/detsky-sandal-t615-ocean-modra/?variantId=14058</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/detsky-sandal-t615-ocean-modra/?variantId=14058</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3726_boots4u-detsky-sandal-t615-ocean-modra.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3726-1_boots4u-detsky-sandal-t615-ocean-modra.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            27
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>modrá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>855.00 CZK</ns0:price>
-      <ns0:gtin>2200005243916</ns0:gtin>
-      <ns0:brand>BOOTS4YOU</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>3726</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>3726/28</ns0:id>
-      <title>BOOTS4YOU Boots4U dětský sandál T615 oceán-modrá Velikost: 28</title>
-      <description>Chlapecké sandály regulovatelné na dva suché zipy. Otevřená špička a pevná pata zabezpečí pro nohu dostatečnou oporu pro její rozvoj. Sandály jsou vypolstrované a&amp;nbsp;mají koženou stélku s podporou klenby.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/detsky-sandal-t615-ocean-modra/?variantId=14199</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/detsky-sandal-t615-ocean-modra/?variantId=14199</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3726_boots4u-detsky-sandal-t615-ocean-modra.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3726-1_boots4u-detsky-sandal-t615-ocean-modra.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            28
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>modrá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>855.00 CZK</ns0:price>
-      <ns0:gtin>2200005243916</ns0:gtin>
-      <ns0:brand>BOOTS4YOU</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>3726</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>3801/35</ns0:id>
@@ -56404,75 +56250,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>13664</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>13664/46</ns0:id>
-      <title>Orto plus pánská žabka 2701/40 hnědá Velikost: 46</title>
-      <description>Pánská elegantní žabka z měkké kůže. Kvalitní provedení s ortopedicky vytvarovanou stélkou, která je určena pro celodenní chůzi.&amp;nbsp;Podpora podélné i příčné klenby.
-&amp;nbsp;
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Pánská zdravotní obuv &gt; Pánské pantofle &gt; Žabky</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/panska-zabka-orto-plus-2701-40v/?variantId=52958</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/panska-zabka-orto-plus-2701-40v/?variantId=52958</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/13664-3_navrh-bez-nazvu-2026-04-15t091438-150.jpg?69df3d7d</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/13664-2_navrh-bez-nazvu-2026-04-15t091454-057.jpg?69df3d7d</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/13664-1_orto-plus-panska-zabka-2701-40-hneda.jpg?67444683</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/13664_orto-plus-panska-zabka-2701-40-hneda.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            46
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>hnědá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora příčné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1550.00 CZK</ns0:price>
-      <ns0:brand>Orto plus</ns0:brand>
-      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>13664</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>13664/41</ns0:id>
       <title>Orto plus pánská žabka 2701/40 hnědá Velikost: 41</title>
       <description>Pánská elegantní žabka z měkké kůže. Kvalitní provedení s ortopedicky vytvarovanou stélkou, která je určena pro celodenní chůzi.&amp;nbsp;Podpora podélné i příčné klenby.
@@ -79189,6 +78966,208 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>15555</ns0:item_group_id>
     </item>
     <item>
+      <ns0:id>15558/37</ns0:id>
+      <title>LOOKE dámská obuv L1059_03 CLAIRE bílá Velikost: 37</title>
+      <description>Dámské klasické kožené tenisky francouzské značky Looke se zavazováním na ploché tkaničky s koženou měkkou podešví a velmi pohodlnou podešví. Vyjímatelná stélka. 
+Svrchní materiál: kůže
+Vnitřní materiál: kůže
+Podešev: syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k nejdelšímu prstu chodidla (nejlépe v mm)
+Naměřenou délku porovnáme s tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské polobotky &gt; Na zavazování</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/looke-damska-obuv-l1059_03-claire-bila/?variantId=64782</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/looke-damska-obuv-l1059_03-claire-bila/?variantId=64782</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/15558_91768-looke-l1059-03-white-claire-damska-vychazkova-obuv.jpg?67444683</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            37
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>bílá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>F - úzká šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
+        <ns0:attribute_value>Plochá noha</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1760.00 CZK</ns0:price>
+      <ns0:gtin>2128440136887</ns0:gtin>
+      <ns0:brand>Looke</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>15558</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>15558/39</ns0:id>
+      <title>LOOKE dámská obuv L1059_03 CLAIRE bílá Velikost: 39</title>
+      <description>Dámské klasické kožené tenisky francouzské značky Looke se zavazováním na ploché tkaničky s koženou měkkou podešví a velmi pohodlnou podešví. Vyjímatelná stélka. 
+Svrchní materiál: kůže
+Vnitřní materiál: kůže
+Podešev: syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k nejdelšímu prstu chodidla (nejlépe v mm)
+Naměřenou délku porovnáme s tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské polobotky &gt; Na zavazování</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/looke-damska-obuv-l1059_03-claire-bila/?variantId=64788</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/looke-damska-obuv-l1059_03-claire-bila/?variantId=64788</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/15558_91768-looke-l1059-03-white-claire-damska-vychazkova-obuv.jpg?67444683</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>bílá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>F - úzká šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
+        <ns0:attribute_value>Plochá noha</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1760.00 CZK</ns0:price>
+      <ns0:gtin>2128440136900</ns0:gtin>
+      <ns0:brand>Looke</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>15558</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>15558/40</ns0:id>
+      <title>LOOKE dámská obuv L1059_03 CLAIRE bílá Velikost: 40</title>
+      <description>Dámské klasické kožené tenisky francouzské značky Looke se zavazováním na ploché tkaničky s koženou měkkou podešví a velmi pohodlnou podešví. Vyjímatelná stélka. 
+Svrchní materiál: kůže
+Vnitřní materiál: kůže
+Podešev: syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k nejdelšímu prstu chodidla (nejlépe v mm)
+Naměřenou délku porovnáme s tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské polobotky &gt; Na zavazování</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/looke-damska-obuv-l1059_03-claire-bila/?variantId=64791</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/looke-damska-obuv-l1059_03-claire-bila/?variantId=64791</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/15558_91768-looke-l1059-03-white-claire-damska-vychazkova-obuv.jpg?67444683</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            40
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>bílá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>F - úzká šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
+        <ns0:attribute_value>Plochá noha</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1760.00 CZK</ns0:price>
+      <ns0:sale_price>200.00 CZK</ns0:sale_price>
+      <ns0:gtin>2128440136917</ns0:gtin>
+      <ns0:brand>Looke</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>15558</ns0:item_group_id>
+    </item>
+    <item>
       <ns0:id>15564/38</ns0:id>
       <title>Scholl dámský pantofel CALA LUNA černá Velikost: 38</title>
       <description>SCHOLL pantofle CALA LUNA zdobené černými kamínky na svršku jsou dokonalou kombinací pohodlí a stylu. Stélka s technologií Scholl Bioprint® je ergonomicky navržena podle přirozené anatomie chodidla, aby byla zajištěna stabilita, podpora a správná poloha chodidla při chůzi.
@@ -93174,67 +93153,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>16276</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>16360/38</ns0:id>
-      <title>MEDISTYLE dámský pantofel na halux LUCY hnědá Velikost: 38</title>
-      <description>Dámský pantofel vhodný na ven, jako&amp;nbsp;pracovní obuv nebo na doma. Regulace šířky dvěma suchými zipy.&amp;nbsp;Svršek je vyroben z hladké nebo broušené kůže,&amp;nbsp;stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout). Obuv vhodná pro vbočený palec. Podešev je vyrobená z&amp;nbsp;polyuretanu, je anatomicky tvarovaná, podepírá příčnou i podélnou klenbu. V&amp;nbsp;patní části vyměkčená. Na výrobu stélky se používají usňové materiály (po navlhnutí nutno nechat přirozeně vyschnout). Svršky obuvi jsou vyrobené z&amp;nbsp;lícové hovězinové usně. Barva kůže a stélky se může lišit dle aktuálního dodání výrobce.
-
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské pantofle a nazouváky &gt; Páskové pantofle</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/medistyle-damsky-pantofel-na-halux-lucy-hneda/?variantId=69874</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/medistyle-damsky-pantofel-na-halux-lucy-hneda/?variantId=69874</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16360_damske-pantofle-medistyle-lucy-hallux-5l-e14h-hnede--2.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16360-1_damske-pantofle-medistyle-lucy-hallux-5l-e14h-hnede--1.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            38
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>fialová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>šedá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1360.00 CZK</ns0:price>
-      <ns0:brand>Medistyle</ns0:brand>
-      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>16360</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>16360/40</ns0:id>
@@ -128944,79 +128862,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>17776</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>17776/38</ns0:id>
-      <title>MEDISTYLE dámský pantofel na halux LUCY béžová Velikost: 38</title>
-      <description>Dámský pantofel vhodný na ven, jako&amp;nbsp;pracovní obuv nebo na doma. Regulace šířky dvěma suchými zipy.&amp;nbsp;Svršek je vyroben z hladké nebo broušené kůže,&amp;nbsp;stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout). Obuv vhodná pro vbočený palec. Podešev je vyrobená z&amp;nbsp;polyuretanu, je anatomicky tvarovaná, podepírá příčnou i podélnou klenbu. V&amp;nbsp;patní části vyměkčená. Na výrobu stélky se používají usňové materiály (po navlhnutí nutno nechat přirozeně vyschnout). Svršky obuvi jsou vyrobené z&amp;nbsp;lícové hovězinové usně.
-
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské pantofle a nazouváky &gt; Páskové pantofle</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/medistyle-damsky-pantofel-na-halux-lucy-bezova/?variantId=88015</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/medistyle-damsky-pantofel-na-halux-lucy-bezova/?variantId=88015</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17776-1_medistyle-damsky-pantofel-na-halux-lucy-bezova.jpg?68131385</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17776_bez-nazvu.jpg?678a56bd</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            38
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>béžová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Vbočený kloub palce (Hallux valgus)</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Plochá noha</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora příčné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1360.00 CZK</ns0:price>
-      <ns0:brand>Medistyle</ns0:brand>
-      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>17776</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>17776/42</ns0:id>
       <title>MEDISTYLE dámský pantofel na halux LUCY béžová Velikost: 42</title>
       <description>Dámský pantofel vhodný na ven, jako&amp;nbsp;pracovní obuv nebo na doma. Regulace šířky dvěma suchými zipy.&amp;nbsp;Svršek je vyroben z hladké nebo broušené kůže,&amp;nbsp;stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout). Obuv vhodná pro vbočený palec. Podešev je vyrobená z&amp;nbsp;polyuretanu, je anatomicky tvarovaná, podepírá příčnou i podélnou klenbu. V&amp;nbsp;patní části vyměkčená. Na výrobu stélky se používají usňové materiály (po navlhnutí nutno nechat přirozeně vyschnout). Svršky obuvi jsou vyrobené z&amp;nbsp;lícové hovězinové usně.
@@ -150795,68 +150640,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>18343</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>18343/38</ns0:id>
-      <title>HILBY 380 011 dámská vycházková obuv černá Velikost: 38</title>
-      <description>Dámská kožená polobotka na zavazování s rovnou podešví. Obuv je lehká, pohodlná a má vyměkčenou koženou stélku. Ideální pro každodenní chůzi.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/hilby-380-011-damska-vychazkova-obuv-cerna/?variantId=83452</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/hilby-380-011-damska-vychazkova-obuv-cerna/?variantId=83452</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18343_bez-nazvu.jpg?67d46858</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            38
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>zelená</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>2090.00 CZK</ns0:price>
-      <ns0:brand>Hilby</ns0:brand>
-      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>18343</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>18343/40</ns0:id>
       <title>HILBY 380 011 dámská vycházková obuv černá Velikost: 40</title>
       <description>Dámská kožená polobotka na zavazování s rovnou podešví. Obuv je lehká, pohodlná a má vyměkčenou koženou stélku. Ideální pro každodenní chůzi.
@@ -151603,81 +151386,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>1990.00 CZK</ns0:price>
       <ns0:gtin>4040261414853</ns0:gtin>
-      <ns0:brand>Varomed</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>18367</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>18367/37</ns0:id>
-      <title>Varomed dámský široký sandál Yvonne 04325 600 černá Velikost: 37</title>
-      <description>Úžasně pohodlné sandálky pro citlivá a bolestvá chodidla nebo pokud máte hallux valgus.&amp;nbsp;Tam, kde běžné sandály často bolestivě tlačí na bříška nohy, tyto sandálky díky strečové vložce na boku jemně povolí a zmírní se tlaková bolest na vyčnívající bouli palce nohy.
-Tato bota vás bude bez problémů a bez bolesti provázet každodenním životem.&amp;nbsp;Měkká stélka je vyjímatelná a lze ji nahradit vašimi osobními vložkami.&amp;nbsp;Sandálky mají šířku K a jsou vhodné pro široké nohy.
-&amp;nbsp;Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/varomed-damsky-siroky-sandal-yvonne-04325-600-cerna/?variantId=83599</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/varomed-damsky-siroky-sandal-yvonne-04325-600-cerna/?variantId=83599</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18367_04325-600-100-yvonne-damen-stretch-sandalette-schwarz.jpg?67d58dfb</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            37
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>černá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>K - široká šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Vbočený kloub palce (Hallux valgus)</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Křivé a stísněné prsty</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Otoky nohou</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1990.00 CZK</ns0:price>
-      <ns0:gtin>4040261414860</ns0:gtin>
       <ns0:brand>Varomed</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -157235,6 +156943,207 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>18466</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>18472/41</ns0:id>
+      <title>Relife pánský sandál 5738-23723-08 BROWN/TAUPE Velikost: 41</title>
+      <description>Pánské sandály na zapínání na tři suchý zip. Boty jsou vybavené tvarovanou měkkou stélkou tlumící dopady chůze na páteř.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika, textil
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+
+o chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Pánská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/relife-pansky-sandal-5738-23723-08-brown-taupe/?variantId=84355</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/relife-pansky-sandal-5738-23723-08-brown-taupe/?variantId=84355</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18472-1_relife-pansky-sandal-5738-23723-08-brown-taupe.jpg?67e25ca7</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18472_relife-pansky-sandal-5738-23723-08-brown-taupe.jpg?67e25ca7</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            41
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>textil</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1400.00 CZK</ns0:price>
+      <ns0:gtin>4262493781002</ns0:gtin>
+      <ns0:brand>Relife</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>18472</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>18472/42</ns0:id>
+      <title>Relife pánský sandál 5738-23723-08 BROWN/TAUPE Velikost: 42</title>
+      <description>Pánské sandály na zapínání na tři suchý zip. Boty jsou vybavené tvarovanou měkkou stélkou tlumící dopady chůze na páteř.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika, textil
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+
+o chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Pánská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/relife-pansky-sandal-5738-23723-08-brown-taupe/?variantId=84358</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/relife-pansky-sandal-5738-23723-08-brown-taupe/?variantId=84358</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18472-1_relife-pansky-sandal-5738-23723-08-brown-taupe.jpg?67e25ca7</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18472_relife-pansky-sandal-5738-23723-08-brown-taupe.jpg?67e25ca7</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            42
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>textil</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1400.00 CZK</ns0:price>
+      <ns0:gtin>4262493781019</ns0:gtin>
+      <ns0:brand>Relife</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>18472</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>18472/45</ns0:id>
+      <title>Relife pánský sandál 5738-23723-08 BROWN/TAUPE Velikost: 45</title>
+      <description>Pánské sandály na zapínání na tři suchý zip. Boty jsou vybavené tvarovanou měkkou stélkou tlumící dopady chůze na páteř.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika, textil
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+
+o chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Pánská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/relife-pansky-sandal-5738-23723-08-brown-taupe/?variantId=84367</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/relife-pansky-sandal-5738-23723-08-brown-taupe/?variantId=84367</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18472-1_relife-pansky-sandal-5738-23723-08-brown-taupe.jpg?67e25ca7</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18472_relife-pansky-sandal-5738-23723-08-brown-taupe.jpg?67e25ca7</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            45
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>textil</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1400.00 CZK</ns0:price>
+      <ns0:gtin>4262493781040</ns0:gtin>
+      <ns0:brand>Relife</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>18472</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>18475/37</ns0:id>
@@ -168063,70 +167972,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>2120.00 CZK</ns0:price>
       <ns0:gtin>8004373591501</ns0:gtin>
-      <ns0:brand>Scholl</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>18793</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>18793/39</ns0:id>
-      <title>Scholl dámský pantofel CAMOGLI white Velikost: 39</title>
-      <description>Dámské pantofle v elegantní bílé barvě s ozdobnou sponou jsou vhodné po běžné denní nošení v letních měsících. Obuv je na klínovém podpatku, zdravotní stélka Memory Cushion&amp;nbsp;eliminuje bolesti nohou a únavu rovnoměrným rozložením tlaku na chodidlo a absorbuje otřesy způsobené chůzí. Rovnoměrným rozložením tlaku na chodidlo zajišťuje jeho lepší podporu a snižuje tlak na nejvíce zatížené body.
-
-Technologie Memory Cushion má jedinečnou odpruženou stélku, která sleduje tvar vaší nohy. Jakmile si zujete boty, vrátí se tato speciální polstrovaná stélka zpět je svému původnímu tvaru. Udržuje také nohy v chladu a suchu.
-&amp;nbsp;&amp;nbsp;
-Svrchní materiál:&amp;nbsp;syntetika
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské pantofle a nazouváky &gt; Páskové pantofle</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/scholl-damsky-pantofel-camogli-white/?variantId=86578</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/scholl-damsky-pantofel-camogli-white/?variantId=86578</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18793-2_bez-nazvu--1080-x-720-px-5.png?69c020f0</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18793_bez-nazvu--1080-x-720-px-9.png?69c020e3</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18793-1_bez-nazvu--1080-x-720-px-7.png?69c020ee</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            39
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>bílá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>F - úzká šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>2120.00 CZK</ns0:price>
-      <ns0:gtin>8004373591518</ns0:gtin>
       <ns0:brand>Scholl</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -227010,210 +226855,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20233</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20257/38</ns0:id>
-      <title>Dámský pantofel Santé 517/34P magenta Velikost: 38</title>
-      <description>Dámské zdravotní pantofle jsou určeny profesionálům ve zdravotnictví, díky přírodnímu materiálu jsou pohodlné a prodyšné. Regulace šíře obuvi v oblasti nártu je možná pomocí nastavitelných pásků na boku obuvi. Obuv má protiskluzovou podešev a je certifikována v oblasti bezpečnosti práce.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/damsky-pantofel-sante-517-34p-magenta/?variantId=96634</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/damsky-pantofel-sante-517-34p-magenta/?variantId=96634</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-1_navrh-bez-nazvu--2.png?69a81d7d</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-2_navrh-bez-nazvu--1.png?69a81d7e</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257_navrh-bez-nazvu--3.png?69a81d7a</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-2_navrh-bez-nazvu--17.jpg?699737af</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            38
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>červená</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>920.00 CZK</ns0:price>
-      <ns0:gtin>8591763471494</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20257</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20257/39</ns0:id>
-      <title>Dámský pantofel Santé 517/34P magenta Velikost: 39</title>
-      <description>Dámské zdravotní pantofle jsou určeny profesionálům ve zdravotnictví, díky přírodnímu materiálu jsou pohodlné a prodyšné. Regulace šíře obuvi v oblasti nártu je možná pomocí nastavitelných pásků na boku obuvi. Obuv má protiskluzovou podešev a je certifikována v oblasti bezpečnosti práce.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/damsky-pantofel-sante-517-34p-magenta/?variantId=96637</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/damsky-pantofel-sante-517-34p-magenta/?variantId=96637</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-1_navrh-bez-nazvu--2.png?69a81d7d</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-2_navrh-bez-nazvu--1.png?69a81d7e</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257_navrh-bez-nazvu--3.png?69a81d7a</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-2_navrh-bez-nazvu--17.jpg?699737af</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            39
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>červená</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>920.00 CZK</ns0:price>
-      <ns0:gtin>8591763471500</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20257</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20257/41</ns0:id>
-      <title>Dámský pantofel Santé 517/34P magenta Velikost: 41</title>
-      <description>Dámské zdravotní pantofle jsou určeny profesionálům ve zdravotnictví, díky přírodnímu materiálu jsou pohodlné a prodyšné. Regulace šíře obuvi v oblasti nártu je možná pomocí nastavitelných pásků na boku obuvi. Obuv má protiskluzovou podešev a je certifikována v oblasti bezpečnosti práce.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/damsky-pantofel-sante-517-34p-magenta/?variantId=96643</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/damsky-pantofel-sante-517-34p-magenta/?variantId=96643</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-1_navrh-bez-nazvu--2.png?69a81d7d</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-2_navrh-bez-nazvu--1.png?69a81d7e</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257_navrh-bez-nazvu--3.png?69a81d7a</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20257-2_navrh-bez-nazvu--17.jpg?699737af</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            41
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>červená</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>890.00 CZK</ns0:price>
-      <ns0:gtin>8591763471524</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20257</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20260/41</ns0:id>
       <title>Svorto 073 vložky balance sport Velikost: 41-42</title>
       <description>Sport Balance jsou vložky vyvinuté pro uživatele, kteří vyžadují maximální rovnováhu mezi pohodlím a stabilitou při vysoké zátěži. Ortopedicky tvarovaná konstrukce podporuje podélnou klenbu a pomáhá udržovat správné postavení chodidel, čímž zlepšuje biomechaniku pohybu i celkovou stabilitu těla. Vložky jsou proto ideální pro běh, fitness, turistiku i dynamické sporty, kde je klíčová jistota a spolehlivé tlumení.
@@ -243405,66 +243046,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>870.00 CZK</ns0:price>
       <ns0:gtin>8591763125083</ns0:gtin>
-      <ns0:brand>Pegada</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20437</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20437/46</ns0:id>
-      <title>Santé Pegada pánské pantofle PE/131601-01 RATO hnědá Velikost: 46</title>
-      <description>Pánské lehké letní pantofle mají&amp;nbsp;měkkou stélku&amp;nbsp;a svršek vyroben z velmi kvalitní kůže.&amp;nbsp;Vnitřní pěnová vrstva je pokryta textilní podšívkou, tyto vrstvy společně zajišťují pohodlí a absorpci potu. Díky tomu je bota vzdušná a vaše noha zůstává v suchu a pohodlí. Stélka je z&amp;nbsp;materiálu EVA potaženého textilní vrstvou, což zajišťuje větší pohodlí.&amp;nbsp;Podešev má tlumicí systém AMORTECH.
-Svrchní materiál:&amp;nbsp;kůže&amp;nbsp;
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Pánská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/sante-pegada-panske-pantofle-pe-131601-01-rato-hneda/?variantId=98209</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-pegada-panske-pantofle-pe-131601-01-rato-hneda/?variantId=98209</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20437_snimek-obrazovky-22-2-2026-133442-pegada-cz.jpg?699af80a</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            46
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>hnědá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Plochá noha</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>870.00 CZK</ns0:price>
-      <ns0:gtin>8591763125120</ns0:gtin>
       <ns0:brand>Pegada</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -263266,6 +262847,75 @@ o chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale pa
       <ns0:item_group_id>20724</ns0:item_group_id>
     </item>
     <item>
+      <ns0:id>20727/41</ns0:id>
+      <title>Relife pánské sandály 6868-26722-01 dk brown Velikost: 41</title>
+      <description>Pánské sandály na zapínání na tři suchý zip. Boty jsou vybavené tvarovanou měkkou stélkou tlumící dopady chůze na páteř.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika, textil
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+
+o chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Pánská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/relife-panske-sandaly-6868-26722-01-dk-brown/?variantId=100257</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/relife-panske-sandaly-6868-26722-01-dk-brown/?variantId=100257</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20727-2_navrh-bez-nazvu-2026-03-26t110049-081.jpg?69c50462</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20727-1_navrh-bez-nazvu-2026-03-26t110115-429.jpg?69c50462</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20727_navrh-bez-nazvu-2026-03-26t110152-069.jpg?69c50462</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            41
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>textil</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1580.00 CZK</ns0:price>
+      <ns0:gtin>4262499897462</ns0:gtin>
+      <ns0:brand>Relife</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20727</ns0:item_group_id>
+    </item>
+    <item>
       <ns0:id>20727/42</ns0:id>
       <title>Relife pánské sandály 6868-26722-01 dk brown Velikost: 42</title>
       <description>Pánské sandály na zapínání na tři suchý zip. Boty jsou vybavené tvarovanou měkkou stélkou tlumící dopady chůze na páteř.&amp;nbsp;
@@ -276040,216 +275690,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20837</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20840/38</ns0:id>
-      <title>MEDISTYLE dámské sandály na patní ostruhu DANA LD-T2A/OSTR Velikost: 38</title>
-      <description>Dámské sandály vhodné na ven, jako&amp;nbsp;pracovní obuv nebo na doma. Regulace šířky dvěma suchými zipy.&amp;nbsp;Svršek je vyroben z hladké nebo broušené kůže,&amp;nbsp;stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout).&amp;nbsp;Bolest v oblasti paty způsobená výrůstkem na patní kosti vyžaduje speciální úpravy. Obuv s měkkou&amp;nbsp;stélkou a odpruženou patou zmírní tlak a uleví od bolesti.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/medistyle-damske-sandaly-na-patni-ostruhu-dana-ld-t2a-ostr/?variantId=101695</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/medistyle-damske-sandaly-na-patni-ostruhu-dana-ld-t2a-ostr/?variantId=101695</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840-2_navrh-bez-nazvu-2026-04-28t083054-171.jpg?69f0544b</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840-1_navrh-bez-nazvu-2026-04-28t083114-403.jpg?69f0544b</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840_navrh-bez-nazvu-2026-04-28t083136-755.jpg?69f0544b</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            38
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Patní ostruhy</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora příčné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>lavanda</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1350.00 CZK</ns0:price>
-      <ns0:gtin>0726529861655</ns0:gtin>
-      <ns0:brand>Medistyle</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20840</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20840/39</ns0:id>
-      <title>MEDISTYLE dámské sandály na patní ostruhu DANA LD-T2A/OSTR Velikost: 39</title>
-      <description>Dámské sandály vhodné na ven, jako&amp;nbsp;pracovní obuv nebo na doma. Regulace šířky dvěma suchými zipy.&amp;nbsp;Svršek je vyroben z hladké nebo broušené kůže,&amp;nbsp;stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout).&amp;nbsp;Bolest v oblasti paty způsobená výrůstkem na patní kosti vyžaduje speciální úpravy. Obuv s měkkou&amp;nbsp;stélkou a odpruženou patou zmírní tlak a uleví od bolesti.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/medistyle-damske-sandaly-na-patni-ostruhu-dana-ld-t2a-ostr/?variantId=101698</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/medistyle-damske-sandaly-na-patni-ostruhu-dana-ld-t2a-ostr/?variantId=101698</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840-2_navrh-bez-nazvu-2026-04-28t083054-171.jpg?69f0544b</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840-1_navrh-bez-nazvu-2026-04-28t083114-403.jpg?69f0544b</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840_navrh-bez-nazvu-2026-04-28t083136-755.jpg?69f0544b</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            39
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Patní ostruhy</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora příčné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>lavanda</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1350.00 CZK</ns0:price>
-      <ns0:gtin>0726529861662</ns0:gtin>
-      <ns0:brand>Medistyle</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20840</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20840/40</ns0:id>
-      <title>MEDISTYLE dámské sandály na patní ostruhu DANA LD-T2A/OSTR Velikost: 40</title>
-      <description>Dámské sandály vhodné na ven, jako&amp;nbsp;pracovní obuv nebo na doma. Regulace šířky dvěma suchými zipy.&amp;nbsp;Svršek je vyroben z hladké nebo broušené kůže,&amp;nbsp;stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout).&amp;nbsp;Bolest v oblasti paty způsobená výrůstkem na patní kosti vyžaduje speciální úpravy. Obuv s měkkou&amp;nbsp;stélkou a odpruženou patou zmírní tlak a uleví od bolesti.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/medistyle-damske-sandaly-na-patni-ostruhu-dana-ld-t2a-ostr/?variantId=101701</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/medistyle-damske-sandaly-na-patni-ostruhu-dana-ld-t2a-ostr/?variantId=101701</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840-2_navrh-bez-nazvu-2026-04-28t083054-171.jpg?69f0544b</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840-1_navrh-bez-nazvu-2026-04-28t083114-403.jpg?69f0544b</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20840_navrh-bez-nazvu-2026-04-28t083136-755.jpg?69f0544b</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            40
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Patní ostruhy</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora příčné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>lavanda</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1350.00 CZK</ns0:price>
-      <ns0:gtin>0726529861679</ns0:gtin>
-      <ns0:brand>Medistyle</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20840</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20846/37</ns0:id>
       <title>GRÜNLAND dámské sandály PAGI SA1990-N9 taupe Velikost: 37</title>
       <description>Sandály PAGI skvěle tlumí došlap, jsou ideální pro úlevu unaveným nohám. Jsou krásné, elegantní a lehké.&amp;nbsp;Sandálky jsou zdobeny
@@ -277418,198 +276858,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>20855</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20858/38</ns0:id>
-      <title>PEON dámské sandály HB/1316-7Z Velikost: 38</title>
-      <description>Dámské sandálky pro pohodové letní dny. Vyměkčená stélka, originální desing.
-
-&amp;nbsp;
-
-Svrchní materiál:&amp;nbsp;syntetika, textil
-Vnitřní materiál:&amp;nbsp;syntetika, textil
-Podešev:&amp;nbsp;syntetika
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/peon-damske-sandaly-hb-1316-7z/?variantId=101324</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/peon-damske-sandaly-hb-1316-7z/?variantId=101324</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-4_navrh-bez-nazvu-2026-05-07t111150-089.jpg?69fc5797</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-3_navrh-bez-nazvu-2026-05-07t111209-747.jpg?69fc5797</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858_navrh-bez-nazvu-2026-04-28t092203-756.jpg?69f0601f</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-1_navrh-bez-nazvu-2026-04-28t092132-024.jpg?69f0601f</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-2_navrh-bez-nazvu-2026-05-07t111235-664.jpg?69fc5797</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            38
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>zlatá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>béžová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>990.00 CZK</ns0:price>
-      <ns0:gtin>8596409530320</ns0:gtin>
-      <ns0:brand>PeOn</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20858</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20858/39</ns0:id>
-      <title>PEON dámské sandály HB/1316-7Z Velikost: 39</title>
-      <description>Dámské sandálky pro pohodové letní dny. Vyměkčená stélka, originální desing.
-
-&amp;nbsp;
-
-Svrchní materiál:&amp;nbsp;syntetika, textil
-Vnitřní materiál:&amp;nbsp;syntetika, textil
-Podešev:&amp;nbsp;syntetika
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/peon-damske-sandaly-hb-1316-7z/?variantId=101327</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/peon-damske-sandaly-hb-1316-7z/?variantId=101327</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-4_navrh-bez-nazvu-2026-05-07t111150-089.jpg?69fc5797</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-3_navrh-bez-nazvu-2026-05-07t111209-747.jpg?69fc5797</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858_navrh-bez-nazvu-2026-04-28t092203-756.jpg?69f0601f</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-1_navrh-bez-nazvu-2026-04-28t092132-024.jpg?69f0601f</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-2_navrh-bez-nazvu-2026-05-07t111235-664.jpg?69fc5797</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            39
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>zlatá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>béžová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>990.00 CZK</ns0:price>
-      <ns0:gtin>8596409530337</ns0:gtin>
-      <ns0:brand>PeOn</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20858</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20858/40</ns0:id>
-      <title>PEON dámské sandály HB/1316-7Z Velikost: 40</title>
-      <description>Dámské sandálky pro pohodové letní dny. Vyměkčená stélka, originální desing.
-
-&amp;nbsp;
-
-Svrchní materiál:&amp;nbsp;syntetika, textil
-Vnitřní materiál:&amp;nbsp;syntetika, textil
-Podešev:&amp;nbsp;syntetika
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/peon-damske-sandaly-hb-1316-7z/?variantId=101330</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/peon-damske-sandaly-hb-1316-7z/?variantId=101330</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-4_navrh-bez-nazvu-2026-05-07t111150-089.jpg?69fc5797</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-3_navrh-bez-nazvu-2026-05-07t111209-747.jpg?69fc5797</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858_navrh-bez-nazvu-2026-04-28t092203-756.jpg?69f0601f</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-1_navrh-bez-nazvu-2026-04-28t092132-024.jpg?69f0601f</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20858-2_navrh-bez-nazvu-2026-05-07t111235-664.jpg?69fc5797</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            40
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>zlatá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>béžová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>990.00 CZK</ns0:price>
-      <ns0:gtin>8596409530344</ns0:gtin>
-      <ns0:brand>PeOn</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20858</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>20861/37</ns0:id>
@@ -282690,74 +281938,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20929</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20929/37</ns0:id>
-      <title>SANTÉ dámské sandály RX/26897 red Velikost: 37</title>
-      <description>&amp;nbsp;
-Pohodlné lehké sportoní sandály v trekovém stylu.&amp;nbsp; Šířka obuvi je nastavitelná třemi suchými zipy. Pohodlná obuv z měkkých materiálu pro celodenní chůzi. Robustní a zároveň lehká podešev nabízí výbornou stabilitu a odolnost. Měkká kožená stélka tlumí došlap a zvyšuje tak komfort při chůzi, snižuje únavu chodidel i při delším nošením.&amp;nbsp;
-Sportovní design, vhodný pro každodenní nošení, turistiku a outdoorové aktivity.&amp;nbsp;
-Jsou ideální volbou pro každodenní nošení, na cestách za dobrodružstvím, pro různé aktivity, kde je klíčem pohodlí.
-Harmonické spojení stylu, péče a pohodlí, zajišťující maximální komfort na každém kroku při celodenním nošení.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil, kůže
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-
-&amp;nbsp;&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101773</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101773</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20929_navrh-bez-nazvu-2026-05-12t105626-020.jpg?6a02eb74</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            37
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>červená</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>930.00 CZK</ns0:price>
-      <ns0:gtin>8591763473689</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20929</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20929/38</ns0:id>
       <title>SANTÉ dámské sandály RX/26897 red Velikost: 38</title>
       <description>&amp;nbsp;
@@ -285987,6 +285167,242 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>20950</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20953/35</ns0:id>
+      <title>Mintaka dámské lodičky 411187/3 černá Velikost: 35</title>
+      <description>Dámské kožené, velmi pohodlné lodičky na středně vysokém stabilním podpatku.&amp;nbsp;Stélka obsahuje ortopedické podpory příčné i podélné klenby.
+Obuv je vyrobena z pravé přírodní kůže. Vnitřní část obuvi je vyrobena také z přírodní kůže.&amp;nbsp;
+&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské lodičky</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101947</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101947</ns0:mobile_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            35
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1990.00 CZK</ns0:price>
+      <ns0:brand>Mintaka</ns0:brand>
+      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20953</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20953/38</ns0:id>
+      <title>Mintaka dámské lodičky 411187/3 černá Velikost: 38</title>
+      <description>Dámské kožené, velmi pohodlné lodičky na středně vysokém stabilním podpatku.&amp;nbsp;Stélka obsahuje ortopedické podpory příčné i podélné klenby.
+Obuv je vyrobena z pravé přírodní kůže. Vnitřní část obuvi je vyrobena také z přírodní kůže.&amp;nbsp;
+&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské lodičky</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101953</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101953</ns0:mobile_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            38
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1990.00 CZK</ns0:price>
+      <ns0:brand>Mintaka</ns0:brand>
+      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20953</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20953/39</ns0:id>
+      <title>Mintaka dámské lodičky 411187/3 černá Velikost: 39</title>
+      <description>Dámské kožené, velmi pohodlné lodičky na středně vysokém stabilním podpatku.&amp;nbsp;Stélka obsahuje ortopedické podpory příčné i podélné klenby.
+Obuv je vyrobena z pravé přírodní kůže. Vnitřní část obuvi je vyrobena také z přírodní kůže.&amp;nbsp;
+&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské lodičky</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101956</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101956</ns0:mobile_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1990.00 CZK</ns0:price>
+      <ns0:brand>Mintaka</ns0:brand>
+      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20953</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20953/40</ns0:id>
+      <title>Mintaka dámské lodičky 411187/3 černá Velikost: 40</title>
+      <description>Dámské kožené, velmi pohodlné lodičky na středně vysokém stabilním podpatku.&amp;nbsp;Stélka obsahuje ortopedické podpory příčné i podélné klenby.
+Obuv je vyrobena z pravé přírodní kůže. Vnitřní část obuvi je vyrobena také z přírodní kůže.&amp;nbsp;
+&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské lodičky</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101959</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mintaka-damske-lodicky-411187-3-cerna/?variantId=101959</ns0:mobile_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            40
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1990.00 CZK</ns0:price>
+      <ns0:brand>Mintaka</ns0:brand>
+      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20953</ns0:item_group_id>
     </item>
   </channel>
 </rss>
