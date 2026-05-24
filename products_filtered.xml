@@ -13957,50 +13957,6 @@ Svrchní materiál: bavlna - textil</description>
       <ns0:item_group_id>3432</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>3432/32</ns0:id>
-      <title>Vanimar vložky ortopedické 0033 Velikost: 32</title>
-      <description>Bavlněná stélka s podporou podélné nožní klenby ze savého a velmi odolného materiálu černé barvy. Stélka je vhodná do všech typů obuvi.
-Svrchní materiál: bavlna - textil</description>
-      <ns0:google_product_category>5567</ns0:google_product_category>
-      <ns0:product_type>Doplňky &gt; Zdravotní vložky do bot</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/vlozky-ortopedicke-0033/?variantId=24489</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/vlozky-ortopedicke-0033/?variantId=24489</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3432_vanimar-vlozky-ortopedicke-0033.jpg?67444683</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            32
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>67.00 CZK</ns0:price>
-      <ns0:brand>Vanimar</ns0:brand>
-      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>3432</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>3432/33</ns0:id>
       <title>Vanimar vložky ortopedické 0033 Velikost: 33</title>
       <description>Bavlněná stélka s podporou podélné nožní klenby ze savého a velmi odolného materiálu černé barvy. Stélka je vhodná do všech typů obuvi.
@@ -14717,6 +14673,70 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:condition>new</ns0:condition>
       <ns0:size>
                                             20
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>modrá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>šedá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>660.00 CZK</ns0:price>
+      <ns0:sale_price>100.00 CZK</ns0:sale_price>
+      <ns0:gtin>2000003857234</ns0:gtin>
+      <ns0:brand>BOOTS4YOU</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>3555</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>3555/22</ns0:id>
+      <title>BOOTS4YOU Boots4U dětský sandál T213 tinte shark Velikost: 22</title>
+      <description>Chlapecké sandály regulovatelné na dvě přezky a suchý zip. Otevřená špička zajistí odvětrání nohy a pevná pata zabezpečí dostatečnou oporu pro její rozvoj. Sandály jsou vypolstrované a mají koženou stélku s podporou klenby.
+Svrchní materiál: kůže
+Vnitřní materiál: kůže, textil
+Podešev: syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k nejdelšímu prstu chodidla (nejlépe v mm)
+Naměřenou délku porovnáme s tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+ </description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/detsky-sandal-t213-tinte-shark/?variantId=13551</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/detsky-sandal-t213-tinte-shark/?variantId=13551</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3555_boots4u-detsky-sandal-t213-tinte-shark.jpg?67444683</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/3555-1_boots4u-detsky-sandal-t213-tinte-shark.jpg?67444683</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            22
                                     </ns0:size>
       <ns0:product_detail>
         <ns0:attribute_name>Barva</ns0:attribute_name>
@@ -47370,56 +47390,6 @@ prodyšný microfiber, polyuretanová pěna s antibakteriální úpravou, molit
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>275.00 CZK</ns0:price>
       <ns0:gtin>8594023814567</ns0:gtin>
-      <ns0:brand>Svorto</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>12960</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>12960/42</ns0:id>
-      <title>Svorto 054 vložky pro podélné plochonoží Velikost: 42</title>
-      <description>Vložky pro podporu podélné klenby vyrovnávají chodidla do správného postavení, změkčují došlap a odlehčují paty. Zmírňují bolest v oblasti klenby a paty a zajišťují lepší pohodlí v obuvi. Vložky jsou záměrně vyrobeny bez podpory příčné klenby (srdíčka). Jsou určeny právě lidem, kterým podpora příčné klenby nevyhovuje. 
-Materiál:
-prodyšný microfiber, polyuretanová pěna s antibakteriální úpravou, molitan, termoplastický kaučuk</description>
-      <ns0:google_product_category>5567</ns0:google_product_category>
-      <ns0:product_type>Doplňky &gt; Zdravotní vložky do bot</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/vlozky-pro-podelne-plochonozi-054-svorto/?variantId=49308</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/vlozky-pro-podelne-plochonozi-054-svorto/?variantId=49308</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/12960-1_054-vlozky-pro-podelne-plochonozi.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/12960_054-vlozky-pro-podelne-plochonozi--1.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            42
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>skelet</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>antibakteriální</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>275.00 CZK</ns0:price>
-      <ns0:gtin>8594023814574</ns0:gtin>
       <ns0:brand>Svorto</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -90559,180 +90529,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>16141</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>16156/32</ns0:id>
-      <title>AMERICAN CLUB dětský sandál HL133/24 černá Velikost: 32</title>
-      <description>Dětské lehké sandálky regulovatelné zapínáním na tři suché zipy. Sandálky mají koženou stélku.&amp;nbsp;
-&amp;nbsp;Svrchní materiál:&amp;nbsp;syntetika&amp;nbsp;
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/american-club-detsky-sandal-hl133-24-cerna/?variantId=68818</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/american-club-detsky-sandal-hl133-24-cerna/?variantId=68818</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16156_american-club-detsky-sandal-hl133-24-cerna.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16156-1_american-club-detsky-sandal-hl133-24-cerna.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            32
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>černá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>740.00 CZK</ns0:price>
-      <ns0:gtin>5903497139763</ns0:gtin>
-      <ns0:brand>AMERICAN CLUB</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>16156</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>16156/33</ns0:id>
-      <title>AMERICAN CLUB dětský sandál HL133/24 černá Velikost: 33</title>
-      <description>Dětské lehké sandálky regulovatelné zapínáním na tři suché zipy. Sandálky mají koženou stélku.&amp;nbsp;
-&amp;nbsp;Svrchní materiál:&amp;nbsp;syntetika&amp;nbsp;
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/american-club-detsky-sandal-hl133-24-cerna/?variantId=68821</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/american-club-detsky-sandal-hl133-24-cerna/?variantId=68821</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16156_american-club-detsky-sandal-hl133-24-cerna.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16156-1_american-club-detsky-sandal-hl133-24-cerna.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            33
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>černá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>740.00 CZK</ns0:price>
-      <ns0:gtin>5903497139770</ns0:gtin>
-      <ns0:brand>AMERICAN CLUB</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>16156</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>16156/35</ns0:id>
-      <title>AMERICAN CLUB dětský sandál HL133/24 černá Velikost: 35</title>
-      <description>Dětské lehké sandálky regulovatelné zapínáním na tři suché zipy. Sandálky mají koženou stélku.&amp;nbsp;
-&amp;nbsp;Svrchní materiál:&amp;nbsp;syntetika&amp;nbsp;
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/american-club-detsky-sandal-hl133-24-cerna/?variantId=68827</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/american-club-detsky-sandal-hl133-24-cerna/?variantId=68827</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16156_american-club-detsky-sandal-hl133-24-cerna.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16156-1_american-club-detsky-sandal-hl133-24-cerna.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            35
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>černá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>740.00 CZK</ns0:price>
-      <ns0:gtin>5903497139794</ns0:gtin>
-      <ns0:brand>AMERICAN CLUB</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>16156</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>16159/32</ns0:id>
       <title>AMERICAN CLUB dětský sandál HL133/24 modrá Velikost: 32</title>
       <description>Dětské lehké sandálky regulovatelné zapínáním na tři suché zipy. Sandálky mají koženou stélku.&amp;nbsp;
@@ -104681,6 +104477,63 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>2050.00 CZK</ns0:price>
       <ns0:gtin>8596409441718</ns0:gtin>
+      <ns0:brand>PeOn</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>16792</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>16792/39</ns0:id>
+      <title>PEON dámská teniska KA/N1095-15 černá Velikost: 39</title>
+      <description>Dámské polobotky s kvalitním svrškem z kvalitní kůže. Vyměkčená kožená stélka s prvky pro podporu příčné klenby. Zavazování na tkaničky, vyvýšená robustní podešev.
+Svrchní materiál: kůže
+Vnitřní materiál: kůže
+Podešev: syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské polobotky &gt; Na zavazování</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/peon-damska-teniska-ka-n1095-15-cerna/?variantId=72430</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/peon-damska-teniska-ka-n1095-15-cerna/?variantId=72430</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/16792_321310-ka-n1095-15-1-jpg-1.jpg?67444683</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>2050.00 CZK</ns0:price>
+      <ns0:gtin>8596409441732</ns0:gtin>
       <ns0:brand>PeOn</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -165446,74 +165299,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>18718</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>18718/31</ns0:id>
-      <title>Salamander Lurchi LURCHI dětský sandál 95L0053001 navy-orange Velikost: 31</title>
-      <description>Sportovní sandály firmy Lurchi, vhodné na outdoorové výlety. Pevný opatek. Vyvýšená podešev chrání prsty a zabraňuje okopání. Flexibilní podešev.
-&amp;nbsp;
-Svrchní materiál:&amp;nbsp;textil, syntetika
-Vnitřní materiál:&amp;nbsp;textil, syntetika
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/lurchi-detsky-sandal-95l0053001-navy-orange/?variantId=86041</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/lurchi-detsky-sandal-95l0053001-navy-orange/?variantId=86041</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/18718_71gst8-mg0l--ac-sx695.jpg?67f939be</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            31
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>modrá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>oranžová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>970.00 CZK</ns0:price>
-      <ns0:gtin>4066893196264</ns0:gtin>
-      <ns0:brand>Salamander Lurchi</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>18718</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>18718/33</ns0:id>
       <title>Salamander Lurchi LURCHI dětský sandál 95L0053001 navy-orange Velikost: 33</title>
       <description>Sportovní sandály firmy Lurchi, vhodné na outdoorové výlety. Pevný opatek. Vyvýšená podešev chrání prsty a zabraňuje okopání. Flexibilní podešev.
@@ -210304,6 +210089,68 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>19828</ns0:item_group_id>
     </item>
     <item>
+      <ns0:id>19828/42</ns0:id>
+      <title>WILD 252000027 t.moro pánská vycházková obuv hnědá Velikost: 42</title>
+      <description>Pánská kožená vycházková obuv s pohodlnou stélkou. Obuv vhodná pro&amp;nbsp;každodenní aktivity.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Pánská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/wild-252000027-t-moro-panska-vychazkova-obuv-hneda/?variantId=93604</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/wild-252000027-t-moro-panska-vychazkova-obuv-hneda/?variantId=93604</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19828-1_wild-252000027-t-moro-panska-vychazkova-obuv-hneda.jpg?68da1dbc</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19828_wild-252000027-t-moro-panska-vychazkova-obuv-hneda.jpg?68da1dbb</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            42
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1330.00 CZK</ns0:price>
+      <ns0:brand>WILD</ns0:brand>
+      <ns0:identifier_exists>FALSE</ns0:identifier_exists>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>19828</ns0:item_group_id>
+    </item>
+    <item>
       <ns0:id>19828/44</ns0:id>
       <title>WILD 252000027 t.moro pánská vycházková obuv hnědá Velikost: 44</title>
       <description>Pánská kožená vycházková obuv s pohodlnou stélkou. Obuv vhodná pro&amp;nbsp;každodenní aktivity.&amp;nbsp;
@@ -235358,70 +235205,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20323</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20323/32</ns0:id>
-      <title>PROTETIKA dětská barefoot obuv VESTON white Velikost: 32</title>
-      <description>Barefoot jarní boty jsou vyrobeny z prémiové broušené a přírodní kůže v bílé barvě. Dva suché zipy pevně fixují botu na noze. Uvnitř mají netvarovanou, vyjímatelnou koženou stélku.&amp;nbsp;Kulatá podešev má jemný protiskluzový dezén, je odolná, ale velmi ohebná.
-
-Špička je dostatečně prostorná pro širší chodidlo.
-Rovná podešev má nulový podpatek, který zajistí chůzi „jako naboso“.
-Částečně zpevněný podpatek udržuje nožku ve správném postavení.
-
-Svrchní materiál:&amp;nbsp; kůže
-Vnitřní materiál: textil, kůže
-Podešev: syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/protetika-detska-barefoot-obuv-veston-white/?variantId=97402</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/protetika-detska-barefoot-obuv-veston-white/?variantId=97402</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20323-2_vestonwhite21-26a27-36.jpg?698784cb</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20323_protetika-detska-barefoot-obuv-veston-white.jpg?6974e64c</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20323-1_protetika-detska-barefoot-obuv-veston-white.jpg?6974e64c</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            32
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>bílá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1340.00 CZK</ns0:price>
-      <ns0:gtin>8585063869556</ns0:gtin>
-      <ns0:brand>Protetika</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20323</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20323/33</ns0:id>
       <title>PROTETIKA dětská barefoot obuv VESTON white Velikost: 33</title>
       <description>Barefoot jarní boty jsou vyrobeny z prémiové broušené a přírodní kůže v bílé barvě. Dva suché zipy pevně fixují botu na noze. Uvnitř mají netvarovanou, vyjímatelnou koženou stélku.&amp;nbsp;Kulatá podešev má jemný protiskluzový dezén, je odolná, ale velmi ohebná.
@@ -249250,66 +249033,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20532</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20532/44</ns0:id>
-      <title>Santé pánské sandály CB/17970 antracit Velikost: 44</title>
-      <description>Pánský elegantní sandál s plnou špičkou na 2 suché zipy. Kvalitní provedení podešve a velmi příjemná kůže. Vhodný pro každodenní nošení.&amp;nbsp;
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Pánská zdravotní obuv &gt; Pánské sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/sante-panske-sandaly-cb-17970-antracit/?variantId=98907</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-panske-sandaly-cb-17970-antracit/?variantId=98907</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20532-2_bez-nazvu--1080-x-720-px-13.png?69b2907c</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20532-1_bez-nazvu--1080-x-720-px-14.png?69b2907b</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20532_bez-nazvu--1080-x-720-px-15.png?69b2907b</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            44
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>šedá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1530.00 CZK</ns0:price>
-      <ns0:gtin>8591763481684</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20532</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20532/45</ns0:id>
       <title>Santé pánské sandály CB/17970 antracit Velikost: 45</title>
       <description>Pánský elegantní sandál s plnou špičkou na 2 suché zipy. Kvalitní provedení podešve a velmi příjemná kůže. Vhodný pro každodenní nošení.&amp;nbsp;
@@ -259838,69 +259561,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20697</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20700/22</ns0:id>
-      <title>SANTÉ dětské sandály IC/133750 rosa Velikost: 22</title>
-      <description>Sportovní sandály od české firmy Santé. Rychleschnoucí materiál, poutko na patě pro snadnější nazutí, vhodné na outdoorové výlety. Pevný opatek. Vyvýšená pošev chrání prsty a zabraňuje okopání. Dostatek prostoru pro prsty. Flexibilní podešev.
-&amp;nbsp;
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže, textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/sante-detske-sandaly-ic-133750-rosa/?variantId=100083</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-detske-sandaly-ic-133750-rosa/?variantId=100083</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20700-3_navrh-bez-nazvu--73.jpg?69c112f9</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20700-1_navrh-bez-nazvu--74.jpg?69c11305</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20700-2_navrh-bez-nazvu--72.jpg?69c110c8</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            22
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>fialová</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1040.00 CZK</ns0:price>
-      <ns0:gtin>8591763484692</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20700</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20700/23</ns0:id>
       <title>SANTÉ dětské sandály IC/133750 rosa Velikost: 23</title>
       <description>Sportovní sandály od české firmy Santé. Rychleschnoucí materiál, poutko na patě pro snadnější nazutí, vhodné na outdoorové výlety. Pevný opatek. Vyvýšená pošev chrání prsty a zabraňuje okopání. Dostatek prostoru pro prsty. Flexibilní podešev.
@@ -269491,74 +269151,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>890.00 CZK</ns0:price>
       <ns0:gtin>8585063827389</ns0:gtin>
-      <ns0:brand>Protetika</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20804</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>20804/23</ns0:id>
-      <title>PROTETIKA dětské sandály BARGO Velikost: 23</title>
-      <description>Chlapecké sandály se zapínáním na dva suché zipy. Otevřená špička a uzavřená pata zabezpečí pro nohu dostatečnou oporu pro její rozvoj. Sandály mají koženou stélku s podporou klenby.
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;kůže
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv &gt; Chlapecká zdravotní obuv &gt; Chlapecké sandály</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/protetika-detske-sandaly-bargo/?variantId=100865</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/protetika-detske-sandaly-bargo/?variantId=100865</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20804-2_navrh-bez-nazvu-2026-04-17t104126-527.jpg?69e1f268</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20804_navrh-bez-nazvu-2026-04-17t104214-312.jpg?69e1f268</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20804-1_navrh-bez-nazvu-2026-04-17t104148-454.jpg?69e1f268</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            23
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>modrá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>hnědá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>890.00 CZK</ns0:price>
-      <ns0:gtin>8585063827396</ns0:gtin>
       <ns0:brand>Protetika</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -279355,73 +278947,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>20890</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>20890/28</ns0:id>
-      <title>JOMA dětské sandály SNEOJS2617V petroleum Velikost: 28</title>
-      <description>Sportovní sandály španělské firmy JOMA . Rychleschnoucí materiál, poutko na patě pro snadnější nazutí, vhodné na outdoorové výlety.&amp;nbsp; Vyvýšená pošev chrání prsty a zabraňuje okopání. Dostatek prostoru pro prsty. Prostorná obuv.&amp;nbsp;
-&amp;nbsp;
-Svrchní materiál:&amp;nbsp;textil, syntetika
-Vnitřní materiál:&amp;nbsp;textil, syntetika
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/joma-detske-sandaly-sneojs2617v-petroleum/?variantId=101569</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/joma-detske-sandaly-sneojs2617v-petroleum/?variantId=101569</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20890-2_navrh-bez-nazvu-2026-04-28t083439-959.jpg?69faf13e</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20890_navrh-bez-nazvu-2026-04-28t083519-386.jpg?69faf13e</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20890-1_navrh-bez-nazvu-2026-04-28t083454-948.jpg?69faf13e</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            28
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>modrá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>795.00 CZK</ns0:price>
-      <ns0:gtin>8447534117620</ns0:gtin>
-      <ns0:brand>JOMA</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>20890</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>20890/29</ns0:id>
       <title>JOMA dětské sandály SNEOJS2617V petroleum Velikost: 29</title>
       <description>Sportovní sandály španělské firmy JOMA . Rychleschnoucí materiál, poutko na patě pro snadnější nazutí, vhodné na outdoorové výlety.&amp;nbsp; Vyvýšená pošev chrání prsty a zabraňuje okopání. Dostatek prostoru pro prsty. Prostorná obuv.&amp;nbsp;
@@ -281559,6 +281084,210 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>20926</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20929/36</ns0:id>
+      <title>SANTÉ dámské sandály RX/26897 red Velikost: 36</title>
+      <description>&amp;nbsp;
+Pohodlné lehké sportoní sandály v trekovém stylu.&amp;nbsp; Šířka obuvi je nastavitelná třemi suchými zipy. Pohodlná obuv z měkkých materiálu pro celodenní chůzi. Robustní a zároveň lehká podešev nabízí výbornou stabilitu a odolnost. Měkká kožená stélka tlumí došlap a zvyšuje tak komfort při chůzi, snižuje únavu chodidel i při delším nošením.&amp;nbsp;
+Sportovní design, vhodný pro každodenní nošení, turistiku a outdoorové aktivity.&amp;nbsp;
+Jsou ideální volbou pro každodenní nošení, na cestách za dobrodružstvím, pro různé aktivity, kde je klíčem pohodlí.
+Harmonické spojení stylu, péče a pohodlí, zajišťující maximální komfort na každém kroku při celodenním nošení.
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;textil, kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+
+&amp;nbsp;&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101770</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101770</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20929_navrh-bez-nazvu-2026-05-12t105626-020.jpg?6a02eb74</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            36
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>červená</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>930.00 CZK</ns0:price>
+      <ns0:gtin>8591763473672</ns0:gtin>
+      <ns0:brand>Santé</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20929</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20929/38</ns0:id>
+      <title>SANTÉ dámské sandály RX/26897 red Velikost: 38</title>
+      <description>&amp;nbsp;
+Pohodlné lehké sportoní sandály v trekovém stylu.&amp;nbsp; Šířka obuvi je nastavitelná třemi suchými zipy. Pohodlná obuv z měkkých materiálu pro celodenní chůzi. Robustní a zároveň lehká podešev nabízí výbornou stabilitu a odolnost. Měkká kožená stélka tlumí došlap a zvyšuje tak komfort při chůzi, snižuje únavu chodidel i při delším nošením.&amp;nbsp;
+Sportovní design, vhodný pro každodenní nošení, turistiku a outdoorové aktivity.&amp;nbsp;
+Jsou ideální volbou pro každodenní nošení, na cestách za dobrodružstvím, pro různé aktivity, kde je klíčem pohodlí.
+Harmonické spojení stylu, péče a pohodlí, zajišťující maximální komfort na každém kroku při celodenním nošení.
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;textil, kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+
+&amp;nbsp;&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101776</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101776</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20929_navrh-bez-nazvu-2026-05-12t105626-020.jpg?6a02eb74</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            38
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>červená</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>930.00 CZK</ns0:price>
+      <ns0:gtin>8591763473696</ns0:gtin>
+      <ns0:brand>Santé</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20929</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>20929/39</ns0:id>
+      <title>SANTÉ dámské sandály RX/26897 red Velikost: 39</title>
+      <description>&amp;nbsp;
+Pohodlné lehké sportoní sandály v trekovém stylu.&amp;nbsp; Šířka obuvi je nastavitelná třemi suchými zipy. Pohodlná obuv z měkkých materiálu pro celodenní chůzi. Robustní a zároveň lehká podešev nabízí výbornou stabilitu a odolnost. Měkká kožená stélka tlumí došlap a zvyšuje tak komfort při chůzi, snižuje únavu chodidel i při delším nošením.&amp;nbsp;
+Sportovní design, vhodný pro každodenní nošení, turistiku a outdoorové aktivity.&amp;nbsp;
+Jsou ideální volbou pro každodenní nošení, na cestách za dobrodružstvím, pro různé aktivity, kde je klíčem pohodlí.
+Harmonické spojení stylu, péče a pohodlí, zajišťující maximální komfort na každém kroku při celodenním nošení.
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;textil, kůže
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+
+&amp;nbsp;&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Ortopedická a speciální obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101779</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-damske-sandaly-rx-26897-red/?variantId=101779</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/20929_navrh-bez-nazvu-2026-05-12t105626-020.jpg?6a02eb74</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>červená</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>930.00 CZK</ns0:price>
+      <ns0:gtin>8591763473702</ns0:gtin>
+      <ns0:brand>Santé</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>20929</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>20932/37</ns0:id>
