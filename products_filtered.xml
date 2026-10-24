@@ -54737,9 +54737,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
         <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>2720.00 CZK</ns0:price>
-      <ns0:sale_price>2448.00 CZK</ns0:sale_price>
+      <ns0:sale_price>1990.00 CZK</ns0:sale_price>
       <ns0:brand>Hilby</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -54801,9 +54802,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
         <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>2720.00 CZK</ns0:price>
-      <ns0:sale_price>2448.00 CZK</ns0:sale_price>
+      <ns0:sale_price>1990.00 CZK</ns0:sale_price>
       <ns0:brand>Hilby</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -54865,9 +54867,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
         <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>2720.00 CZK</ns0:price>
-      <ns0:sale_price>2448.00 CZK</ns0:sale_price>
+      <ns0:sale_price>1990.00 CZK</ns0:sale_price>
       <ns0:brand>Hilby</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -54929,9 +54932,10 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
         <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
         <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
       </ns0:product_detail>
+      <ns0:custom_label_2>Výprodej</ns0:custom_label_2>
       <ns0:availability>in stock</ns0:availability>
       <ns0:price>2720.00 CZK</ns0:price>
-      <ns0:sale_price>2448.00 CZK</ns0:sale_price>
+      <ns0:sale_price>1990.00 CZK</ns0:sale_price>
       <ns0:brand>Hilby</ns0:brand>
       <ns0:shipping>
         <ns0:country>CZ</ns0:country>
@@ -55404,65 +55408,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:condition>new</ns0:condition>
       <ns0:size>
                                             39
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>šedá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Plochá noha</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>1220.00 CZK</ns0:price>
-      <ns0:brand>Medistyle</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>14677</ns0:item_group_id>
-    </item>
-    <item>
-      <ns0:id>14677/40</ns0:id>
-      <title>MEDISTYLE dámský pantofel KIVI šedý Velikost: 40</title>
-      <description>Dámský pantofel vhodný na ven, jako pracovní obuv nebo na doma. Regulace šířky suchým zipem. Svršek je vyroben z hladké nebo broušené kůže, stélka je kožená, anatomicky tvarovaná (po navlhnutí nutno nechat přirozeně vyschnout).
-Svrchní materiál: kůže
-Vnitřní materiál: kůže, textil
-Podešev: syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k nejdelšímu prstu chodidla (nejlépe v mm)
-Naměřenou délku porovnáme s tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv &gt; Dámské pantofle a nazouváky &gt; Páskové pantofle</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/damsky-pantofel-medistyle-kivi-sedy/?variantId=62195</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/damsky-pantofel-medistyle-kivi-sedy/?variantId=62195</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/14677-1_medistyle-damsky-pantofel-kivi-sedy.jpg?67444683</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/14677_medistyle-damsky-pantofel-kivi-sedy.jpg?67444683</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            40
                                     </ns0:size>
       <ns0:product_detail>
         <ns0:attribute_name>Materiál</ns0:attribute_name>
@@ -98769,6 +98714,207 @@ join girth = obvod chodidla v místě kloubu palce&amp;nbsp;</description>
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>17422</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>17440/38</ns0:id>
+      <title>HILBY 1227/D77 dámská zimní obuv černo zlatá Velikost: 38</title>
+      <description>Dámské elegantní zimní boty se zavazováním na tkaničku a postranním zipem.&amp;nbsp;Svršek je vyroben z pravé kůže. Podšívka je zateplena.
+&amp;nbsp;Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla&amp;nbsp;
+
+&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/hilby-1227-d77-damska-zimni-obuv-cerno-zlata/?variantId=76453</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/hilby-1227-d77-damska-zimni-obuv-cerno-zlata/?variantId=76453</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440-2_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440-1_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            38
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>zlatá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>2370.00 CZK</ns0:price>
+      <ns0:brand>Hilby</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>17440</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>17440/39</ns0:id>
+      <title>HILBY 1227/D77 dámská zimní obuv černo zlatá Velikost: 39</title>
+      <description>Dámské elegantní zimní boty se zavazováním na tkaničku a postranním zipem.&amp;nbsp;Svršek je vyroben z pravé kůže. Podšívka je zateplena.
+&amp;nbsp;Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla&amp;nbsp;
+
+&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/hilby-1227-d77-damska-zimni-obuv-cerno-zlata/?variantId=76456</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/hilby-1227-d77-damska-zimni-obuv-cerno-zlata/?variantId=76456</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440-2_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440-1_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>zlatá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>2370.00 CZK</ns0:price>
+      <ns0:brand>Hilby</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>17440</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>17440/40</ns0:id>
+      <title>HILBY 1227/D77 dámská zimní obuv černo zlatá Velikost: 40</title>
+      <description>Dámské elegantní zimní boty se zavazováním na tkaničku a postranním zipem.&amp;nbsp;Svršek je vyroben z pravé kůže. Podšívka je zateplena.
+&amp;nbsp;Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla&amp;nbsp;
+
+&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/hilby-1227-d77-damska-zimni-obuv-cerno-zlata/?variantId=76459</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/hilby-1227-d77-damska-zimni-obuv-cerno-zlata/?variantId=76459</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440-2_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/17440-1_hilby-1227-d77-damska-zimni-obuv-cerno-zlata.jpg?67444683</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            40
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>zlatá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>2370.00 CZK</ns0:price>
+      <ns0:brand>Hilby</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>17440</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>17449/37</ns0:id>
@@ -151844,126 +151990,6 @@ Materiál: microfiber (ARNEDRY), PU recyklovaná pěna s antibakteriální úpra
       <ns0:item_group_id>19294</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>19294/40</ns0:id>
-      <title>Svorto 092 vložky ortopedické ortopedické PREMIUM Velikost: 40</title>
-      <description>ROZMĚRY
-
-
-
-Velikost
-Délka vložky&amp;nbsp;
-
-
-36
-243 mm *
-
-
-37
-250 mm *
-
-
-38
-256 mm *
-
-
-39
-261 mm *
-
-
-40
-268 mm *
-
-
-41
-275 mm *
-
-
-42
-282 mm *
-
-
-43
-289 mm *
-
-
-44
-295 mm *
-
-
-45
-302 mm *
-
-
-46
-308 mm *
-
-
-
-*Vzhledem k pružnosti materiálu a tvarování se mohou&amp;nbsp;vyskytnout odchylky (+-2 mm).
-
-
-POPIS PRODUKTU
-● ortopedicky tvarované
-● podpora podélné a příčné klenby
-● podpora prstů – řasa
-● vynikající tlumení nárazů v patě a pod prsty díky materiálu PORON®
-● prodyšná pěnová vrstva s antibakteriální úpravou
-● měkký došlap po celé ploše vložky
-● odolný a omyvatelný povrch
-
-Zažijte výjimečný komfort s ortopedickými vložkami, navrženými s maximální pečlivostí a s využitím těch nejlepších materiálů.
-Díky pevnější konstrukci poskytují vložky vyšší stabilitu, čímž pomáhají oddalovat únavu a předcházet bolesti.
-
-Materiál: microfiber (ARNEDRY), PU recyklovaná pěna s antibakteriální úpravou (ARNEFLEX), latexová pěna, PORON®, termoplastický kaučuk.</description>
-      <ns0:google_product_category>5567</ns0:google_product_category>
-      <ns0:product_type>Doplňky &gt; Zdravotní vložky do bot</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/svorto-092-vlozky-ortopedicke-ortopedicke-premium/?variantId=89911</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/svorto-092-vlozky-ortopedicke-ortopedicke-premium/?variantId=89911</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19294-1_bez-nazvu.jpg?684fde05</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19294_bez-nazvu-f.jpg?684fde04</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            40
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>syntetika</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora podélné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora příčné klenby</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Podpora prstů</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>490.00 CZK</ns0:price>
-      <ns0:gtin>8594217530440</ns0:gtin>
-      <ns0:brand>Svorto</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>19294</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>19294/42</ns0:id>
       <title>Svorto 092 vložky ortopedické ortopedické PREMIUM Velikost: 42</title>
       <description>ROZMĚRY
@@ -169335,6 +169361,177 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>19741</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>19750/21</ns0:id>
+      <title>Demar dětské holínky TWISTER LUX 0402 a 0403 světle modrá Velikost: 21</title>
+      <description>Dětská zateplená holínka, značka DEMAR. Obuv je vyráběna ve dvojčíslech 20/21, 22/23, 24/25, 26/27, 28/39, 30/31, 32/33, 34/35, uvádíme vždy větší číslo.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra/?variantId=93106</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra/?variantId=93106</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19750_demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra.jpg?68c9102b</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            21
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>modrá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>340.00 CZK</ns0:price>
+      <ns0:gtin>5901232051004</ns0:gtin>
+      <ns0:brand>Demar</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>19750</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>19750/23</ns0:id>
+      <title>Demar dětské holínky TWISTER LUX 0402 a 0403 světle modrá Velikost: 23</title>
+      <description>Dětská zateplená holínka, značka DEMAR. Obuv je vyráběna ve dvojčíslech 20/21, 22/23, 24/25, 26/27, 28/39, 30/31, 32/33, 34/35, uvádíme vždy větší číslo.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra/?variantId=93109</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra/?variantId=93109</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19750_demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra.jpg?68c9102b</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            23
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>modrá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>340.00 CZK</ns0:price>
+      <ns0:gtin>5901232051011</ns0:gtin>
+      <ns0:brand>Demar</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>19750</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>19750/33</ns0:id>
+      <title>Demar dětské holínky TWISTER LUX 0402 a 0403 světle modrá Velikost: 33</title>
+      <description>Dětská zateplená holínka, značka DEMAR. Obuv je vyráběna ve dvojčíslech 20/21, 22/23, 24/25, 26/27, 28/39, 30/31, 32/33, 34/35, uvádíme vždy větší číslo.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra/?variantId=93124</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra/?variantId=93124</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/19750_demar-detske-holinky-twister-lux-0402-a-0403-svetle-modra.jpg?68c9102b</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            33
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>modrá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>390.00 CZK</ns0:price>
+      <ns0:gtin>5901232051103</ns0:gtin>
+      <ns0:brand>Demar</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>19750</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>19756/41</ns0:id>
@@ -232653,115 +232850,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>21108</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>8685/41</ns0:id>
-      <title>PODOWELL dámská kotníková obuv Marjorie noir Velikost: 41</title>
-      <description>Dvojitá měkká podrážka&amp;nbsp;zajišťuje bezkonkurenční pohodlí a tlumení nárazů
-&amp;nbsp;Široká manžeta v oblasti kotníků&amp;nbsp;obepíná chodidlo bez tlaku a zajišťuje stabilitu
-&amp;nbsp;Pružná podrážka&amp;nbsp;poskytuje optimální odpružení a přirozený pohyb
-&amp;nbsp;Dvojitý, měkký a hřejivý vnitřek&amp;nbsp;vás ochrání i během nejchladnějších zimních dnů
-&amp;nbsp;Nepřilnavý povrch podrážky&amp;nbsp;zaručuje bezpečný a jistý krok v různých terénech
-
-Marjorie má&amp;nbsp;dvojitý zip&amp;nbsp;a&amp;nbsp;pružný svršek díky těmto vlasnostem&amp;nbsp;se boty snadno nazouvají a přizpůsobí se vašim prstům – bez omezení a bez bolesti.
-- Estetika městské boty.
-- Velký otvor pro snadné navlékání.
-- Roztažitelná horní část, která poskytuje flexibilitu pro unavenou nebo deformovanou nohu, která na konci dne zvětší objem.
-MARJORIE v obou barvách jsou vhodné i pro osoby s ortopedickými obtížemi:
-
-
-Hallux valgus (vbočený palec)
-
-
-Kladívkové prsty
-
-
-Edémy (otoky chodidel)
-
-
-Mortonův neurom (bolestivý nervový uzlík mezi prsty)
-
-
-&amp;nbsp;
-Svrchní materiál:&amp;nbsp;kůže
-Vnitřní materiál:&amp;nbsp;textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;
-
-&amp;nbsp;
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/podowell-damska-kotnikova-obuv-marjorie-noir/?variantId=103119</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/podowell-damska-kotnikova-obuv-marjorie-noir/?variantId=103119</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21108-3_tento-produkt-se-doporucuje-pro-nasledujici-patologie-diabeticka-noha--mekka-kuze-potazena-penou-s-vysokou-hustotou-pro-lepsi-rozlozeni-tlaku--dva-nastavitelne--nastavitelne-pasky-na-suche-zip--46.jpg?6a7ac332</ns0:image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21108-1_tento-produkt-se-doporucuje-pro-nasledujici-patologie-diabeticka-noha--mekka-kuze-potazena-penou-s-vysokou-hustotou-pro-lepsi-rozlozeni-tlaku--dva-nastavitelne--nastavitelne-pasky-na-suche-zip--48.jpg?6a7ac332</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21108_navrh-bez-nazvu-2026-08-04t085556-023.jpg?6a718e8d</ns0:additional_image_link>
-      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21108-2_tento-produkt-se-doporucuje-pro-nasledujici-patologie-diabeticka-noha--mekka-kuze-potazena-penou-s-vysokou-hustotou-pro-lepsi-rozlozeni-tlaku--dva-nastavitelne--nastavitelne-pasky-na-suche-zip--47.jpg?6a7ac332</ns0:additional_image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            41
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>černá</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>kůže</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>K - široká šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Vbočený kloub palce (Hallux valgus)</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>Kladívkové prsty</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Problémy s chodidly</ns0:attribute_name>
-        <ns0:attribute_value>edém</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>2590.00 CZK</ns0:price>
-      <ns0:gtin>3376122100643</ns0:gtin>
-      <ns0:brand>Podowell</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>0.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>0.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>0.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>21108</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>8685/42</ns0:id>
       <title>PODOWELL dámská kotníková obuv Marjorie noir Velikost: 42</title>
       <description>Dvojitá měkká podrážka&amp;nbsp;zajišťuje bezkonkurenční pohodlí a tlumení nárazů
@@ -248311,6 +248399,213 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>21315</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21318/37</ns0:id>
+      <title>WILD dámské široké kozačky 017 31028 černá Velikost: 37</title>
+      <description>Dámské kozačky vhodné i pro široké lýtko díky šněrování v přední části. Boční zip usnadní obouvání. Kozačky jsou zatepleny hřejivým chloupkem. Velmi měkká a příjemná kůže pro každodenní pohodlí.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/wild-damske-siroke-kozacky-017-31028-cerna/?variantId=104595</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/wild-damske-siroke-kozacky-017-31028-cerna/?variantId=104595</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-3_navrh-bez-nazvu--6.png?6ab40351</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-2_navrh-bez-nazvu--7.png?6ab40350</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-1_navrh-bez-nazvu--8.png?6ab4034f</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318_navrh-bez-nazvu--9.png?6ab4034f</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            37
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1780.00 CZK</ns0:price>
+      <ns0:gtin>8591652488541</ns0:gtin>
+      <ns0:brand>WILD</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21318</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21318/38</ns0:id>
+      <title>WILD dámské široké kozačky 017 31028 černá Velikost: 38</title>
+      <description>Dámské kozačky vhodné i pro široké lýtko díky šněrování v přední části. Boční zip usnadní obouvání. Kozačky jsou zatepleny hřejivým chloupkem. Velmi měkká a příjemná kůže pro každodenní pohodlí.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/wild-damske-siroke-kozacky-017-31028-cerna/?variantId=104598</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/wild-damske-siroke-kozacky-017-31028-cerna/?variantId=104598</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-3_navrh-bez-nazvu--6.png?6ab40351</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-2_navrh-bez-nazvu--7.png?6ab40350</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-1_navrh-bez-nazvu--8.png?6ab4034f</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318_navrh-bez-nazvu--9.png?6ab4034f</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            38
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1780.00 CZK</ns0:price>
+      <ns0:gtin>8591652488534</ns0:gtin>
+      <ns0:brand>WILD</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21318</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21318/39</ns0:id>
+      <title>WILD dámské široké kozačky 017 31028 černá Velikost: 39</title>
+      <description>Dámské kozačky vhodné i pro široké lýtko díky šněrování v přední části. Boční zip usnadní obouvání. Kozačky jsou zatepleny hřejivým chloupkem. Velmi měkká a příjemná kůže pro každodenní pohodlí.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;kůže
+Vnitřní materiál:&amp;nbsp;kůže, textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/wild-damske-siroke-kozacky-017-31028-cerna/?variantId=104601</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/wild-damske-siroke-kozacky-017-31028-cerna/?variantId=104601</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-3_navrh-bez-nazvu--6.png?6ab40351</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-2_navrh-bez-nazvu--7.png?6ab40350</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318-1_navrh-bez-nazvu--8.png?6ab4034f</ns0:additional_image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21318_navrh-bez-nazvu--9.png?6ab4034f</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>černá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1780.00 CZK</ns0:price>
+      <ns0:gtin>8591652488527</ns0:gtin>
+      <ns0:brand>WILD</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21318</ns0:item_group_id>
     </item>
     <item>
       <ns0:id>21321/41</ns0:id>
@@ -274408,6 +274703,139 @@ Dĺžka vnútornej stielky (cm)
       <ns0:item_group_id>21492</ns0:item_group_id>
     </item>
     <item>
+      <ns0:id>21495/27</ns0:id>
+      <title>PROTETIKA dětská zimní obuv EMA old pink Velikost: 27</title>
+      <description>Dívčí vycházkové zimní boty jsou vyrobeny z hladké kůže. Membrána PROTEX účinně chrání nohy před deštěm a vlhkostí. Postranní zip a tkanička na dotažení.&amp;nbsp; Uvnitř lehce zateplena.&amp;nbsp;
+Membrána PROTEX účinně chrání nohy před deštěm a vlhkostí. V přední části boty se nachází reflexní prvek. Dva suché zipy pevně fixují botu na noze.
+&amp;nbsp;
+
+Na stélce je jemně podpořena klenba chodidla.
+Obuv má pevný podpatek, který zabraňuje vybočení pat a udržuje chodidlo ve správném postavení.
+Obuv je vyrobena z kvalitních certifikovaných materiálů.
+
+Vnější materiál:&amp;nbsp;kůže, textil
+Vnitřní materiál:&amp;nbsp;textil
+Podešev: Syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+Orientační tabulka velikostí:
+
+
+
+
+
+Velikost
+Vnitřní délka stélky
+
+Šířka stélky
+
+
+27
+18,2 cm
+7,2 cm
+
+
+28
+18,8 cm
+7,3 cm
+
+
+29
+19,5 cm
+7,4 cm
+
+
+30
+20,2 cm
+7,5 cm
+
+
+31
+20,8 cm
+7,7 cm
+
+
+32
+21,5 cm
+7,8 cm
+
+
+33
+22,2 cm
+8,0 cm
+
+
+34
+22,8 cm
+8,2 cm
+
+
+35
+23,5 cm
+8,4 cm
+
+
+36
+24,0 cm
+8,6 cm
+
+
+
+
+
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dětská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/protetika-detska-zimni-obuv-ema-old-pink/?variantId=106014</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/protetika-detska-zimni-obuv-ema-old-pink/?variantId=106014</ns0:mobile_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            27
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>růžová</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>kůže</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>TEX</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1540.00 CZK</ns0:price>
+      <ns0:gtin>8585063887475</ns0:gtin>
+      <ns0:brand>Protetika</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21495</ns0:item_group_id>
+    </item>
+    <item>
       <ns0:id>21495/28</ns0:id>
       <title>PROTETIKA dětská zimní obuv EMA old pink Velikost: 28</title>
       <description>Dívčí vycházkové zimní boty jsou vyrobeny z hladké kůže. Membrána PROTEX účinně chrání nohy před deštěm a vlhkostí. Postranní zip a tkanička na dotažení.&amp;nbsp; Uvnitř lehce zateplena.&amp;nbsp;
@@ -279541,71 +279969,6 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       <ns0:item_group_id>21528</ns0:item_group_id>
     </item>
     <item>
-      <ns0:id>21528/41</ns0:id>
-      <title>SANTÉ dámská zimní obuv HA/107 bordo Velikost: 41</title>
-      <description>Pohodlná LEHKÁ a velmi příjemná na nošení, kvalitní ZATEPLENÁ vycházková obuv Santé.&amp;nbsp;
-Svršek: textilie odolná před vlhkostí -její předností je měkkost, prodyšnost a odolnost.
-Zateplená hřejivým kožíškem. Podešev lehká a flexibilní. Odlehčená pata tlumí nárazy, poskytuje větší odolnost, lehkost a pohodlí při chůzi.
-Doporučujeme brát o číslo větší velikost.
-Svrchní materiál:&amp;nbsp;textil
-Vnitřní materiál:&amp;nbsp; textil
-Podešev:&amp;nbsp;syntetika
-Jak správně změřit velikost chodidel?
-
-Ke zdi si položíme papír velikosti A4 nebo metr
-Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
-Měříme vždy obě chodidla
-Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
-Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
-Měříme večer, kdy je noha největší (např. oteklá)
-Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
-
-&amp;nbsp;</description>
-      <ns0:google_product_category>187</ns0:google_product_category>
-      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
-      <link>https://www.mariinabotarna.cz/sante-damska-zimni-obuv-ha-107-bordo/?variantId=106239</link>
-      <ns0:mobile_link>https://www.mariinabotarna.cz/sante-damska-zimni-obuv-ha-107-bordo/?variantId=106239</ns0:mobile_link>
-      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21528_sante-damska-zimni-obuv-ha-107-bordo.jpg?6ad88259</ns0:image_link>
-      <ns0:condition>new</ns0:condition>
-      <ns0:size>
-                                            41
-                                    </ns0:size>
-      <ns0:product_detail>
-        <ns0:attribute_name>Barva</ns0:attribute_name>
-        <ns0:attribute_value>bordo</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Materiál</ns0:attribute_name>
-        <ns0:attribute_value>textil</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:product_detail>
-        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
-        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
-      </ns0:product_detail>
-      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
-      <ns0:availability>in stock</ns0:availability>
-      <ns0:price>550.00 CZK</ns0:price>
-      <ns0:gtin>8591763494363</ns0:gtin>
-      <ns0:brand>Santé</ns0:brand>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>DPD doručení na adresu</ns0:service>
-        <ns0:price>149.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
-        <ns0:price>129.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:shipping>
-        <ns0:country>CZ</ns0:country>
-        <ns0:service>PPL doručení na adresu</ns0:service>
-        <ns0:price>109.00 CZK</ns0:price>
-      </ns0:shipping>
-      <ns0:adult>FALSE</ns0:adult>
-      <ns0:item_group_id>21528</ns0:item_group_id>
-    </item>
-    <item>
       <ns0:id>21528/42</ns0:id>
       <title>SANTÉ dámská zimní obuv HA/107 bordo Velikost: 42</title>
       <description>Pohodlná LEHKÁ a velmi příjemná na nošení, kvalitní ZATEPLENÁ vycházková obuv Santé.&amp;nbsp;
@@ -281491,6 +281854,909 @@ Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k o
       </ns0:shipping>
       <ns0:adult>FALSE</ns0:adult>
       <ns0:item_group_id>21537</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21540/36</ns0:id>
+      <title>JOMA dámská kotníková obuv CFUJLW2629 růžovo-hnědá Velikost: 36</title>
+      <description>Středně vysoké sportovní boty pro ženy, inspirované horskou obuví. Kombinují moderní styl a pohodlí, s voděodolnou technologií, která udržuje nohy suché a pohodlné v jakékoli situaci.&amp;nbsp;Navrženy s extra širokou špičkou WIDE PLUS, nabízejí lepší podporu, stabilitu a volnost pohybu v oblasti prstů. Svršek z umělé kůže je opatřen vodoodpudivou úpravou, která odpuzuje vodu a chrání před vlhkostí.&amp;nbsp;Vložka z paměťové pěny se přizpůsobuje tvaru nohy a tlumí každý krok. Obsahuje perforace, které zlepšují prodyšnost.&amp;nbsp;Navíc střední část podrážky EXTRA COMFORT je vyrobena z Taiji phylonu. Jedná se o velmi pohodlnou součást, která nabízí vynikající úroveň odpružení.&amp;nbsp;Protiskluzová podešev. Nezkluzová úprava snižuje riziko uklouznutí, takže můžete chodit s úplnou bezpečností a kontrolou kroku.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106353</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106353</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bdd</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540-1_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bde</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            36
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>růžová</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1250.00 CZK</ns0:price>
+      <ns0:gtin>8447534906828</ns0:gtin>
+      <ns0:brand>JOMA</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21540</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21540/37</ns0:id>
+      <title>JOMA dámská kotníková obuv CFUJLW2629 růžovo-hnědá Velikost: 37</title>
+      <description>Středně vysoké sportovní boty pro ženy, inspirované horskou obuví. Kombinují moderní styl a pohodlí, s voděodolnou technologií, která udržuje nohy suché a pohodlné v jakékoli situaci.&amp;nbsp;Navrženy s extra širokou špičkou WIDE PLUS, nabízejí lepší podporu, stabilitu a volnost pohybu v oblasti prstů. Svršek z umělé kůže je opatřen vodoodpudivou úpravou, která odpuzuje vodu a chrání před vlhkostí.&amp;nbsp;Vložka z paměťové pěny se přizpůsobuje tvaru nohy a tlumí každý krok. Obsahuje perforace, které zlepšují prodyšnost.&amp;nbsp;Navíc střední část podrážky EXTRA COMFORT je vyrobena z Taiji phylonu. Jedná se o velmi pohodlnou součást, která nabízí vynikající úroveň odpružení.&amp;nbsp;Protiskluzová podešev. Nezkluzová úprava snižuje riziko uklouznutí, takže můžete chodit s úplnou bezpečností a kontrolou kroku.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106356</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106356</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bdd</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540-1_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bde</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            37
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>růžová</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1250.00 CZK</ns0:price>
+      <ns0:gtin>8447534906835</ns0:gtin>
+      <ns0:brand>JOMA</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21540</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21540/38</ns0:id>
+      <title>JOMA dámská kotníková obuv CFUJLW2629 růžovo-hnědá Velikost: 38</title>
+      <description>Středně vysoké sportovní boty pro ženy, inspirované horskou obuví. Kombinují moderní styl a pohodlí, s voděodolnou technologií, která udržuje nohy suché a pohodlné v jakékoli situaci.&amp;nbsp;Navrženy s extra širokou špičkou WIDE PLUS, nabízejí lepší podporu, stabilitu a volnost pohybu v oblasti prstů. Svršek z umělé kůže je opatřen vodoodpudivou úpravou, která odpuzuje vodu a chrání před vlhkostí.&amp;nbsp;Vložka z paměťové pěny se přizpůsobuje tvaru nohy a tlumí každý krok. Obsahuje perforace, které zlepšují prodyšnost.&amp;nbsp;Navíc střední část podrážky EXTRA COMFORT je vyrobena z Taiji phylonu. Jedná se o velmi pohodlnou součást, která nabízí vynikající úroveň odpružení.&amp;nbsp;Protiskluzová podešev. Nezkluzová úprava snižuje riziko uklouznutí, takže můžete chodit s úplnou bezpečností a kontrolou kroku.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106359</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106359</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bdd</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540-1_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bde</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            38
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>růžová</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1250.00 CZK</ns0:price>
+      <ns0:gtin>8447534906859</ns0:gtin>
+      <ns0:brand>JOMA</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21540</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21540/40</ns0:id>
+      <title>JOMA dámská kotníková obuv CFUJLW2629 růžovo-hnědá Velikost: 40</title>
+      <description>Středně vysoké sportovní boty pro ženy, inspirované horskou obuví. Kombinují moderní styl a pohodlí, s voděodolnou technologií, která udržuje nohy suché a pohodlné v jakékoli situaci.&amp;nbsp;Navrženy s extra širokou špičkou WIDE PLUS, nabízejí lepší podporu, stabilitu a volnost pohybu v oblasti prstů. Svršek z umělé kůže je opatřen vodoodpudivou úpravou, která odpuzuje vodu a chrání před vlhkostí.&amp;nbsp;Vložka z paměťové pěny se přizpůsobuje tvaru nohy a tlumí každý krok. Obsahuje perforace, které zlepšují prodyšnost.&amp;nbsp;Navíc střední část podrážky EXTRA COMFORT je vyrobena z Taiji phylonu. Jedná se o velmi pohodlnou součást, která nabízí vynikající úroveň odpružení.&amp;nbsp;Protiskluzová podešev. Nezkluzová úprava snižuje riziko uklouznutí, takže můžete chodit s úplnou bezpečností a kontrolou kroku.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106365</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106365</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bdd</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540-1_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bde</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            40
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>růžová</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1250.00 CZK</ns0:price>
+      <ns0:gtin>8447534906873</ns0:gtin>
+      <ns0:brand>JOMA</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21540</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21540/41</ns0:id>
+      <title>JOMA dámská kotníková obuv CFUJLW2629 růžovo-hnědá Velikost: 41</title>
+      <description>Středně vysoké sportovní boty pro ženy, inspirované horskou obuví. Kombinují moderní styl a pohodlí, s voděodolnou technologií, která udržuje nohy suché a pohodlné v jakékoli situaci.&amp;nbsp;Navrženy s extra širokou špičkou WIDE PLUS, nabízejí lepší podporu, stabilitu a volnost pohybu v oblasti prstů. Svršek z umělé kůže je opatřen vodoodpudivou úpravou, která odpuzuje vodu a chrání před vlhkostí.&amp;nbsp;Vložka z paměťové pěny se přizpůsobuje tvaru nohy a tlumí každý krok. Obsahuje perforace, které zlepšují prodyšnost.&amp;nbsp;Navíc střední část podrážky EXTRA COMFORT je vyrobena z Taiji phylonu. Jedná se o velmi pohodlnou součást, která nabízí vynikající úroveň odpružení.&amp;nbsp;Protiskluzová podešev. Nezkluzová úprava snižuje riziko uklouznutí, takže můžete chodit s úplnou bezpečností a kontrolou kroku.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106368</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda/?variantId=106368</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bdd</ns0:image_link>
+      <ns0:additional_image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21540-1_joma-damska-kotnikova-obuv-cfujlw2629-ruzovo-hneda.jpg?6adb0bde</ns0:additional_image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            41
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>růžová</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>hnědá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>H - rozšířená šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1250.00 CZK</ns0:price>
+      <ns0:gtin>8447534906897</ns0:gtin>
+      <ns0:brand>JOMA</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21540</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21543/37</ns0:id>
+      <title>MUSTANG dámská zimní obuv 36M011200100 red Velikost: 37</title>
+      <description>Dámské polokozačky v nadměrkách s objemnou podrážkou, která s každým krokem zvyšuje výšku a zlepšuje stabilitu. Ideální pro ty, kteří hledají boty s charakterem. Kotníkové boty z imitace kůže, přední tkaničky a postranní zip. Uvnitř zateplené.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damska-zimni-obuv-36m011200100-red/?variantId=106374</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damska-zimni-obuv-36m011200100-red/?variantId=106374</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21543_mustang-damska-zimni-obuv-36m011200100-red.jpg?6adb1438</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            37
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>červená</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1880.00 CZK</ns0:price>
+      <ns0:gtin>4066893948948</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21543</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21543/40</ns0:id>
+      <title>MUSTANG dámská zimní obuv 36M011200100 red Velikost: 40</title>
+      <description>Dámské polokozačky v nadměrkách s objemnou podrážkou, která s každým krokem zvyšuje výšku a zlepšuje stabilitu. Ideální pro ty, kteří hledají boty s charakterem. Kotníkové boty z imitace kůže, přední tkaničky a postranní zip. Uvnitř zateplené.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damska-zimni-obuv-36m011200100-red/?variantId=106383</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damska-zimni-obuv-36m011200100-red/?variantId=106383</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21543_mustang-damska-zimni-obuv-36m011200100-red.jpg?6adb1438</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            40
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>červená</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1880.00 CZK</ns0:price>
+      <ns0:gtin>4066893948979</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21543</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21543/41</ns0:id>
+      <title>MUSTANG dámská zimní obuv 36M011200100 red Velikost: 41</title>
+      <description>Dámské polokozačky v nadměrkách s objemnou podrážkou, která s každým krokem zvyšuje výšku a zlepšuje stabilitu. Ideální pro ty, kteří hledají boty s charakterem. Kotníkové boty z imitace kůže, přední tkaničky a postranní zip. Uvnitř zateplené.&amp;nbsp;
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damska-zimni-obuv-36m011200100-red/?variantId=106386</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damska-zimni-obuv-36m011200100-red/?variantId=106386</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21543_mustang-damska-zimni-obuv-36m011200100-red.jpg?6adb1438</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            41
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>červená</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1880.00 CZK</ns0:price>
+      <ns0:gtin>4066893948986</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21543</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21546/37</ns0:id>
+      <title>MUSTANG dámské kozačky 15M009200600 šedá Velikost: 37</title>
+      <description>Dámské zimní polokozačky v koňakově hnědé barvě na šněrování, s postranním zipem a funkční membránou.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106392</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106392</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21546_mustang-damske-kozacky-15m009200600-seda.jpg?6adb1ab8</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            37
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>šedá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1670.00 CZK</ns0:price>
+      <ns0:gtin>4066893319588</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21546</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21546/38</ns0:id>
+      <title>MUSTANG dámské kozačky 15M009200600 šedá Velikost: 38</title>
+      <description>Dámské zimní polokozačky v koňakově hnědé barvě na šněrování, s postranním zipem a funkční membránou.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106395</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106395</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21546_mustang-damske-kozacky-15m009200600-seda.jpg?6adb1ab8</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            38
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>šedá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1670.00 CZK</ns0:price>
+      <ns0:gtin>4066893319595</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21546</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21546/39</ns0:id>
+      <title>MUSTANG dámské kozačky 15M009200600 šedá Velikost: 39</title>
+      <description>Dámské zimní polokozačky v koňakově hnědé barvě na šněrování, s postranním zipem a funkční membránou.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106398</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106398</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21546_mustang-damske-kozacky-15m009200600-seda.jpg?6adb1ab8</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            39
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>šedá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1670.00 CZK</ns0:price>
+      <ns0:gtin>4066893319601</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21546</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21546/40</ns0:id>
+      <title>MUSTANG dámské kozačky 15M009200600 šedá Velikost: 40</title>
+      <description>Dámské zimní polokozačky v koňakově hnědé barvě na šněrování, s postranním zipem a funkční membránou.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106401</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106401</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21546_mustang-damske-kozacky-15m009200600-seda.jpg?6adb1ab8</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            40
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>šedá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1670.00 CZK</ns0:price>
+      <ns0:gtin>4066893319618</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21546</ns0:item_group_id>
+    </item>
+    <item>
+      <ns0:id>21546/41</ns0:id>
+      <title>MUSTANG dámské kozačky 15M009200600 šedá Velikost: 41</title>
+      <description>Dámské zimní polokozačky v koňakově hnědé barvě na šněrování, s postranním zipem a funkční membránou.
+Svrchní materiál:&amp;nbsp;syntetika
+Vnitřní materiál:&amp;nbsp;textil, syntetika
+Podešev:&amp;nbsp;syntetika
+Jak správně změřit velikost chodidel?
+
+Ke zdi si položíme papír velikosti A4 nebo metr
+Měření provádíme vestoje, zády ke zdi, aby se pata dotýkala zdi
+Měříme vždy obě chodidla
+Změříme nebo označíme na papír délku k&amp;nbsp;nejdelšímu prstu chodidla (nejlépe v&amp;nbsp;mm)
+Naměřenou délku porovnáme s&amp;nbsp;tabulkou a vybereme si správnou velikost obuvi
+Měříme večer, kdy je noha největší (např. oteklá)
+Naměřené hodnoty pravého i levého chodidla můžete napsat do poznámky k objednávce, aby Vám bota dokonale padla
+
+&amp;nbsp;
+Orientační velikostní tabulka
+foot lenght = délka chodidla
+join girth = obvod chodidla v místě kloubu palce&amp;nbsp;
+&amp;nbsp;</description>
+      <ns0:google_product_category>187</ns0:google_product_category>
+      <ns0:product_type>Dámská zdravotní obuv</ns0:product_type>
+      <link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106404</link>
+      <ns0:mobile_link>https://www.mariinabotarna.cz/mustang-damske-kozacky-15m009200600-seda/?variantId=106404</ns0:mobile_link>
+      <ns0:image_link>https://cdn.myshoptet.com/usr/www.mariinabotarna.cz/user/shop/orig/21546_mustang-damske-kozacky-15m009200600-seda.jpg?6adb1ab8</ns0:image_link>
+      <ns0:condition>new</ns0:condition>
+      <ns0:size>
+                                            41
+                                    </ns0:size>
+      <ns0:product_detail>
+        <ns0:attribute_name>Barva</ns0:attribute_name>
+        <ns0:attribute_value>šedá</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Materiál</ns0:attribute_name>
+        <ns0:attribute_value>syntetika</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:product_detail>
+        <ns0:attribute_name>Šíře obuvi</ns0:attribute_name>
+        <ns0:attribute_value>G - standardní šíře</ns0:attribute_value>
+      </ns0:product_detail>
+      <ns0:custom_label_0>Novinka</ns0:custom_label_0>
+      <ns0:availability>in stock</ns0:availability>
+      <ns0:price>1670.00 CZK</ns0:price>
+      <ns0:gtin>4066893319625</ns0:gtin>
+      <ns0:brand>MUSTANG</ns0:brand>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>DPD doručení na adresu</ns0:service>
+        <ns0:price>149.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>Zásilkovna doručení na adresu</ns0:service>
+        <ns0:price>129.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:shipping>
+        <ns0:country>CZ</ns0:country>
+        <ns0:service>PPL doručení na adresu</ns0:service>
+        <ns0:price>109.00 CZK</ns0:price>
+      </ns0:shipping>
+      <ns0:adult>FALSE</ns0:adult>
+      <ns0:item_group_id>21546</ns0:item_group_id>
     </item>
   </channel>
 </rss>
